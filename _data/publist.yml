@@ -102,7 +102,7 @@
   description:
     ADD Description
   authors:
-    Lin Liu,  Kevin Schaefer,  Albert Chen,  Alexio Gusmeroli,  Howard Zebker,  Tingjun Zhang
+    Lin Liu,  Kevin Schaefer,  Albert Chen,  Alessio Gusmeroli,  Howard Zebker,  Tingjun Zhang
   link:
     url: https://doi.org/10.1002/2015JF003599 
     display:  Journal of Geophysical Research - Earth Surface (2015) 
@@ -121,81 +121,70 @@
   highlight: 1
   news: 
 
-- title: Anisotropic impurity states, quasiparticle scattering and nematic transport in underdoped Ca(Fe1−xCox)2As2
-  image: Pub_nemat2b.png
-  description:
-    We elucidate on the formation of the electronic nematic state in Co-CaFe2As2, finding that the Cobalt dopant atoms play a key role.
-  authors:
-    MP Allan, T-M Chuang, F Massee, Y Xie, N Ni, SL Bud’ko, GS Boebinger, Q Wang, DS Dessau, PC Canfield, MS Golden, JC Davis
-  highlight: 1    
-  link:
-    url: http://www.nature.com/nphys/journal/v9/n4/full/nphys2544.html
-    display: Nature Physics 9, 220 (2013)
-  news2: See also <a href="http://www.techconnect.org/news/entry.html?id=243"> Tech Connect </a> by Jennifer Rocha, <a href="http://phys.org/news/2013-02-iron-based-superconductor-advances-theory.html"> Phys.org</a> by Bill Steele
-
-- title: Anisotropic energy gaps of iron-based superconductivity from intraband quasiparticle interference in LiFeAs
-  image: Pub_LiFeAs.png
-  description:
-    In contrast to earlier photoemission reports, we show that the gaps in iron based superconductors are not isotropic but modulated with angle.
-  authors:
-    MP Allan⋆ & AW Rost⋆, AP Mackenzie, Y Xie, JC Davis, K Kihou, CH Lee, A Iyo, H Eisaki, T-M Chuang
-  link:
-    url: http://www.sciencemag.org/content/336/6081/563
-    display: Science 336, 563 (2012)
-  highlight: 1
-  news2: See also <a href="http://www.news.cornell.edu/stories/2012/05/new-clues-how-iron-superconductors-work"> Cornell Cornincle </a> by Bill Steele, <a href="http://www.eurekalert.org/pub_releases/2012-05/dnl-avo050312.php"> Eureka Alert </a>
-
-- title: How Kondo-holes create intense nanoscale heavy-fermion hybridization disorder
+- title: Remotely Sensed Active Layer Thickness (ReSALT) at Barrow, Alaska Using Interferometric Synthetic Aperture Radar
   image: dummy.png
-  description: ""
-  authors: MH Hamidian, AR Schmidt, IA Firmo, MP Allan, P Bradley, JD Garrett, TJ Williams, GM Luke, Y Dubi, AV Balatsky, JC Davis
+  description:
+  authors:
+    Kevin Schaefer, Lin Liu, Andrew Parsekian, Elchin Jafarov, Albert Chen, Tingjun Zhang, Alessio Gusmeroli, Santosh Panda, Howard Zebker, Tim Schaefer
+  highlight: 0    
   link:
-    url: http://www.pnas.org/content/108/45/18233
-    display:  PNAS 108, 18233 (2011)
-  highlight: 0
-  news2: 
+    url: http://www.mdpi.com/2072-4292/7/4/3735
+    display: Remote Sensing (2015)
 
-- title: Nematic electronic structure in the “parent” state of the iron-based superconductor Ca(Fe1−xCox)2As2
+- title: Active layer stratigraphy and organic layer thickness at a thermokarst site in Arctic Alaska identified using Ground Penetrating Radar
+  image: dummy.png
+  description:
+  authors:
+   Alessio Gusmeroli, Lin Liu, Kevin Schaefer, Tingjun Zhang, Timothy Schaefer,  Guido Grosse 
+  link:
+    url: https://doi.org/10.1657/AAAR00C-13-301
+    display:  Arctic, Antarctic, and Alpine Research (2015)
+  highlight: 0
+
+- title: InSAR detects increase in surface subsidence caused by an Arctic tundra fire
   image: Pub_nemat1.png
-  description:
-    We discovered an electronic nematic in the iron based superconductor Co-CaFe2As2! This state is by now confirmed and quite well characterized  by transport, photoemission, and more SI-STM experiments.
-  authors:
-    T-M Chuang* & MP Allan*, J Lee, Y Xie, N Ni, SL Bud’ko, GS Boebinger PC Canfield, JC Davis
+  description: "ADD Description"
+  authors: Lin Liu,  Elchin Jafarov,  Kevin Schaefer,  Benjamin Jones,  Howard Zebker, Christopher Williams,  John Rogan,  Tingjun Zhang
   link:
-    url: http://www.sciencemag.org/content/327/5962/181
-    display: Science 327, 181 (2010) 
+    url: https://doi.org/10.1002/2014GL060533
+    display:  Geophysical Research Letters (2014)
   highlight: 1
-  news1: <a style="color:#FF0000" href="http://www.sciencemag.org/content/327/5962/155"> Featured in a ‘Perspective’ by E Fradkin &amp; SA Kivelson</a> 
-  news2: See also <a  href="https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/">Article on NewScientist</a> by Colin Barras
 
-- title: Heavy d-electron quasiparticle interference and real-space electronic structure of Sr3Ru2O7
-  image: Pub_hBN.png
+- title: Seasonal thaw settlement at drained thermokarst lake basins, Arctic Alaska
+  image: dummy.png
   description:
-    QPI in Sr327.
-  authors: Jinho Lee* & M. P. Allan*, M. A.Wang, J. Farrell, S. A. Grigera, F. Baumberger, J. C. Davis and A. P. Mackenzie 
+  authors:
+    Lin Liu, Kevin Schaefer, Alessio Gusmeroli, Guido Grosse, Benjamin Jones, Tingjun Zhang, Andrew Parsekian, Howard Zebker
   link:
-    url: https://www.nature.com/nphys/journal/v5/n11/full/nphys1397.html
-    display: Nature Physics 5, 800 (2009)
+    url: https://doi.org/10.5194/tc-8-815-2014
+    display: The Cryosphere (2014) 
   highlight: 0
 
-- title: Fermi surface and van Hove singularities in the itinerant metamagnet Sr3Ru2O7
+- title: Sustained mass loss of the Northeast Greenland ice sheet triggered by regional warming
   image: Pub_hBN.png
-  description:
-    We determine the Fermi surface of Sr327.
-  authors:
-    A Tamai, MP Allan, JF Mercure, W Meevasana, R Dunkel, DH Lu, RS Perry, AP Mackenzie, David J Singh, Z-X Shen, F Baumberger
+  description: "ADD DESCRIPTION"
+  authors: Shfaqat A. Khan, Kurt H. Kjær, Michael Bevis, Jonathan L. Bamber, John Wahr, Kristian K. Kjeldsen, Anders A. Bjørk, Niels J. Korsgaard, Leigh A. Stearns, Michiel R. van den Broeke, Lin Liu, Nicolaj K. Larsen, Ioana S. Muresan
   link:
-    url: http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.101.026407
-    display: Phys. Rev. Lett. 101, 026407 (2008)
+    url: https://www.nature.com/articles/nclimate2161
+    display: Nature Climate Change (2014)
+  highlight: 1
+  news1: Reported widely by <a href="https://www.usatoday.com/story/news/nation/2014/03/16/northeast-greenlands-ice-loss-triples/6385095/" > USA Today </a> 
+
+- title: Carbon and geochemical properties of cryosols on the North Slope of Alaska
+  image: dummy.png
+  description:
+  authors:
+    Cuicui Mu, Tingjun Zhang, Paul F. Schuster, Kevin Schaefer, Kimberly P. Wickland, Deborah A. Repert, Lin Liu, Tim Schaefer, Guodong Cheng
+  link:
+    url: https://doi.org/10.1016/j.coldregions.2014.01.001
+    display: Cold Regions Science and Technology (2014)
   highlight: 0
 
-- title: Tunable  self-assembly of one-dimensional nanostructures with orthogonal directions
-  image: Pub_hBN.png
+- title: "Surface motion of active rock glaciers in the Sierra Nevada, California, USA: inventory and a case study using InSAR"
+  image: dummy.png
   description:
-    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
-  authors:
-    MP Allan, S Berner, M Corso, T Greber, J Osterwalder
+  authors: Lin Liu, Constance Millar, Robert Westfall, Howard Zebker
   link:
-    url: http://www.nanoscalereslett.com/content/2/2/94
-    display: Nanoscale Research Letters 2, 94 (2007)
-  highlight: 1
+    url: https://www.the-cryosphere.net/7/1109/2013/
+    display: The Cryosphere (2013)
+  highlight: 0
