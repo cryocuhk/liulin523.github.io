@@ -1,4 +1,15 @@
-- title: "Amplifier for scanning tunneling microscopy at MHz frequencies"
+- title: Decadal changes of surface elevation over permafrost area estimated using reflected GPS signals
+  image: Pub_hBN.png
+  description:
+    We use a new type of observables, GPS signals reflected from ground surface, to retrive a decade long time series of elevation changes in permafrost area.
+  authors:
+   Lin Liu, Kristine M. Larson
+  link:
+    url: https://www.the-cryosphere.net/12/477/2018/tc-12-477-2018.html
+    display: The Cryosphere (2018)
+  highlight: 0
+  
+  - title: "Amplifier for scanning tunneling microscopy at MHz frequencies"
   image: Fano.png
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
   authors: KM Bastiaans, T Benschop, D Chatzopoulos, DH Cho, Q Dong, Y Jin, MP Allan
@@ -200,13 +211,3 @@
     url: http://www.nanoscalereslett.com/content/2/2/94
     display: Nanoscale Research Letters 2, 94 (2007)
   highlight: 1
-
-- title: Photoelectron Diffraction for a Look inside Nanostructures
-  image: dummy.png
-  description: ""
-  authors:
-    J Osterwalder, A Tamai, W Auwärter; MP Allan, T Greber
-  link:
-    url: hhttp://www.ingentaconnect.com/content/scs/chimia/2006/00000060/00000011/art00013
-    display: CHIMIA 11, 759 (2006)
-  highlight: 0
