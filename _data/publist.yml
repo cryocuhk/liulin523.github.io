@@ -1,4 +1,4 @@
-- title: Decadal changes of surface elevation over permafrost area estimated using reflected GPS signals
+- title: "Decadal changes of surface elevation over permafrost area estimated using reflected GPS signals"
   image: Pub_hBN.png
   description:
     We use a new type of observables, GPS signals reflected from ground surface, to retrive a decade long time series of elevation changes in permafrost area.
@@ -7,7 +7,7 @@
   link:
     url: https://www.the-cryosphere.net/12/477/2018/tc-12-477-2018.html
     display: The Cryosphere (2018)
-  highlight: 0
+  highlight: 1
   
   - title: "Amplifier for scanning tunneling microscopy at MHz frequencies"
   image: Fano.png
