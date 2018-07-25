@@ -17,15 +17,16 @@
   highlight: 1
   news2: Data are published on <a href="https://doi.pangaea.de/10.1594/PANGAEA.885935"> PANGAE</a>
 
-- title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
+- title: "Permafrost stores a globally significant amount of mercury"
   image: SmartPub.png
-  description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
-  authors: M Leeuwenhoek,  RA Norte, KM Bastiaans, Doohee Cho, I Battisti, YaM Blanter, S Gröblacher, MP Allan
+  description: The amount of natural mercury stored in permafrost is twice as much as the rest of all soils, the atmosphere, and ocean combined.
+  authors: Paul Schuster, K. M. Schaefer, G. R. Aiken, R. C. Antweiler, J. F. Dewild, J. D. Gryziec, A. Gusmeroli, G. Hugelius, E. Jafarov, D. P. Krabbenhoft, L. Liu, N. Herman-Mercer, C. Mu, D. A. Roth, T. Schaefer, R. G. Striegl, K. P. Wickland, and T. Zhang
   link:
-    url: https://arxiv.org/abs/1712.08620
-    display:  arxiv:1712.08620 (2017)
+    url: https://doi.org/10.1002/2017GL075571 
+    display:  Geophysical Research Letters (2018)
   highlight: 1
-  news2: 
+  news1: In the top 5% of all research outputs scored by <a href="https://www.altmetric.com/details/32698388" > Altmetric </a>
+  news2: Highlighted article at <a href="https://news.agu.org/press-release/scientists-find-massive-reserves-of-mercury-hidden-in-permafrost" > AGU </a>
 
 - title: "GPS Interferometric Reflectometry reveals cyclic elevation changes in thaw and freezing seasons in a permafrost area (Barrow, Alaska)"
   image: dummy.png
