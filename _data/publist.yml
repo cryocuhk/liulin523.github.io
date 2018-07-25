@@ -1,15 +1,4 @@
-  - title: "Decadal changes of surface elevation over permafrost area estimated using reflected GPS signals"
-  image: Pub_hBN.png
-  description:
-    We use a new type of observables, GPS signals reflected from ground surface, to retrive a decade long time series of elevation changes in permafrost area.
-  authors:
-   Lin Liu, Kristine M. Larson
-  link:
-    url: https://www.the-cryosphere.net/12/477/2018/tc-12-477-2018.html
-    display: The Cryosphere (2018)
-  highlight: 1
-  
-  - title: "Amplifier for scanning tunneling microscopy at MHz frequencies"
+- title: "Amplifier for scanning tunneling microscopy at MHz frequencies"
   image: Fano.png
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
   authors: KM Bastiaans, T Benschop, D Chatzopoulos, DH Cho, Q Dong, Y Jin, MP Allan
