@@ -47,16 +47,14 @@
   highlight: 0
   news2: 
 
-- title: Creating better superconductors by periodic nanopatterning
-  image: SCAUweb.jpg
+- title: Transient variations in glacial mass near Upernavik Isstrøm (west Greenland) detected by the combined use of GPS and GRACE data
+  image: dummy.jpg
   description:
-    We  propose  an approach to transform a ‘pristine’ material into a better (meta-) superconductor by making use of modern fabrication techniques -- designing and engineering the electronic properties of thin films via periodic patterning on the nanoscale. 
-  authors:
-    MP Allan, MH Fischer, O Ostojic, A Andringa
+  authors: Bao Zhang, Lin Liu, S. A. Khan, Toni van Dam, Enze Zhang, and Yibin Yao 
   link:
-    url: https://scipost.org/SciPostPhys.3.2.010/pdf
-    display: SciPost Phys. 3, 010 (2017)
-  highlight: 1
+    url: https://doi.org/10.1002/2017JB014529
+    display: Journal of Geophysical Research: Solid Earth (2017)
+  highlight: 0
   
 - title: Poor electronic screening in lightly doped Mott insulators observed with scanning tunneling microscopy
   image: TIBB.png
