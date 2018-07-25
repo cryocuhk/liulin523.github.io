@@ -1,3 +1,12 @@
+- title: "GPS Interferometric Reflectometry reveals cyclic elevation changes in thaw and freezing seasons in a permafrost area (Barrow, Alaska)"
+  image: dummy.png
+  description: ""
+  authors: Yufeng Hu, Lin Liu, Kristine Larson, Kevin Schaefer, Jiahua Zhang, and Yibin Yao
+  link:
+    url: https://doi.org/10.1029/2018GL077960
+    display:  Geophysical Research Letters (2018)
+  highlight: 0
+
 - title: "Decadal changes of surface elevation over permafrost area estimated using reflected GPS signals"
   image: Fano.png
   description: We use a new type of observations, GPS signals reflected from ground surface, to retrieve a decadal long time series of elevation changes over permafrost area.
@@ -18,15 +27,14 @@
   highlight: 1
   news2: 
 
-- title: "Revisiting quasiparticle scattering interference in high-temperature superconductors: the problem of narrow peaks"
+- title: "GPS Interferometric Reflectometry reveals cyclic elevation changes in thaw and freezing seasons in a permafrost area (Barrow, Alaska)"
   image: dummy.png
   description: ""
-  authors: MA Sulangi, MP Allan, J Zaanen
+  authors: Yufeng Hu, Lin Liu, Kristine Larson, Kevin Schaefer, Jiahua Zhang, and Yibin Yao
   link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.134507
-    display:  PRB 96, 134507 (2017)
+    url: https://doi.org/10.1029/2018GL077960
+    display:  Geophysical Research Letters (2018)
   highlight: 0
-  news2: Coverd in Superconductor Week, November 30, 2017 Vol. 31, No. 10
 
 - title: Robust procedure for creating and characterizing the atomic structure of scanning tunneling microscope tips
   image: dummy.png
