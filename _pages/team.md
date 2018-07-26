@@ -8,13 +8,7 @@ permalink: /team/
 
 # Group Lead
 {% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
+{% for member in site.data.team_lead %}
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
@@ -23,7 +17,7 @@ permalink: /team/
 
   Research Interests:<br>
   {% if member.number_educ == 1 %}
-  - {{ member.education1 }}
+  <li> {{ member.education1 }} </li>
   {% endif %}
 
   {% if member.number_educ == 2 %}
@@ -110,9 +104,11 @@ permalink: /team/
 Joseph Ma Ho Yin, MPhi 2014-2016, now PhD student at National University of Singapore <br />
 <br />
 
-**Postdocs and Visitors**<br />
+**Postdocs**<br />
 Bao Zhang, Postdoc 2017-2018, now at Wuhan University <br />
 Zhiwei Zhou, Postdoc 2017-2018, now at Institute of Geodesy and Geophysics, Chinese Academy of Sciences <br />
+
+**Visitors**<br />
 Yufeng Hu, Visiting PhD student 2017-2018, now at Chang'an University <br />
 Zhenming Wu, Visiting master student, 2017, now PhD student at Reading University <br />
 Jiahui Wang, Visiting undergraduate student, 2017, now PhD student at Southern Methodist University <br />
