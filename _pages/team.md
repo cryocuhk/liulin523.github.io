@@ -6,6 +6,8 @@ sitemap: false
 permalink: /team/
 ---
 
+# Group Lead
+
 # Group Members
 
 {% assign number_printed = 0 %}
@@ -23,6 +25,7 @@ permalink: /team/
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
   
+  Research Interests:<br>
   {% if member.number_educ == 1 %}
   - {{ member.education1 }} 
   {% endif %}
@@ -74,7 +77,7 @@ permalink: /team/
 
 
 ## Alumni
-<div class="col-sm-6 clearfix">
+<div class="col-sm-10 clearfix">
 **Graduate Students**<br />
 Joseph Ma Ho Yin, MPhi 2014-2016, now PhD student at National University of Singapore <br />
 <br />
