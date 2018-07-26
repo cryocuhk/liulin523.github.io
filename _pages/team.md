@@ -7,7 +7,6 @@ permalink: /team/
 ---
 
 # Group Lead
-{% assign number_printed = 0 %}
 {% for member in site.data.team_lead %}
 
 <div class="col-sm-6 clearfix">
@@ -102,7 +101,6 @@ permalink: /team/
 <div class="col-sm-10 clearfix">
 **Graduate Students**<br />
 Joseph Ma Ho Yin, MPhi 2014-2016, now PhD student at National University of Singapore <br />
-<br />
 
 **Postdocs**<br />
 Bao Zhang, Postdoc 2017-2018, now at Wuhan University <br />
