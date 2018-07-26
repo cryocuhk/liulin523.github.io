@@ -84,5 +84,13 @@ Joseph Ma Ho Yin, MPhi 2014-2016, now PhD student at National University of Sing
 
 **Postdocs and Visitors**<br />
 Bao Zhang, Postdoc 2017-2018, now at Wuhan University <br />
+Zhiwei Zhou, Postdoc 2017-2018, now at Institute of Geodesy and Geophysics, Chinese Academy of Sciences <br />
+Yufeng Hu, Visiting PhD student 2017-2018, now at Chang'an University <br />
+Zhenming Wu, Visiting master student, 2017, now PhD student at Reading University <br />
+Jiahui Wang, Visiting undergraduate student, 2017, now PhD student at Southern Methodist University <br />
+Yongxin Liu, Visiting undergraduate student, 2017, now Master student at Peking University <br />
+Xiaowen Wang, Visiting PhD student 2016-2017, now at University of Tokyo <br />
+Wanwan Shao, Visiting PhD student 2016-2017, now at Lanzhou University <br />
+Weiyu Zheng, Visiting undergraduate student, 2015, now PhD student at Southern Methodist University <br />
 
 </div>

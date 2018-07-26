@@ -6,22 +6,6 @@
   education1: PhD in Geophysics, University of Colorado at Boulder
   education2: George Thompson Postdoc Fellow, Stanford University
   
-- name: Guoyan Jiang
-  photo: rock.jpg
-  info: Hong Kong Scholar (Postdoc)
-  email: guoyan.jiang@gmail.com
-  number_educ: 2
-  education1: PhD in Geodesy and Geomatics Engineering, Wuhan University
-  education2: Postdoc, Institute of Geology, China Earthquake Administration
-
-- name: Jiangjun Ran
-  photo: rock.jpg
-  info: Postdoc
-  email: jiangjunran@gmail.com
-  number_educ: 2
-  education1: PhD in Physical Geodesy, Delft University of Technology
-  education2: Master in Geodesy and Surveying Engineering, Chinese Academy of Sciences
-  
 - name: Xiyu Chen
   photo: rock.jpg
   info: PhD student
@@ -43,6 +27,22 @@
   number_educ: 1
   education1: BSc and Master in Remote Sensing, Wuhan University, China
   
+- name: Guoyan Jiang
+  photo: rock.jpg
+  info: Hong Kong Scholar (Postdoc)
+  email: guoyan.jiang@gmail.com
+  number_educ: 2
+  education1: PhD in Geodesy and Geomatics Engineering, Wuhan University
+  education2: Postdoc, Institute of Geology, China Earthquake Administration
+
+- name: Jiangjun Ran
+  photo: rock.jpg
+  info: Postdoc
+  email: jiangjunran@gmail.com
+  number_educ: 2
+  education1: PhD in Physical Geodesy, Delft University of Technology
+  education2: Master in Geodesy and Surveying Engineering, Chinese Academy of Sciences
+
 - name: Enze Zhang
   photo: rock.jpg
   info: PhD student
