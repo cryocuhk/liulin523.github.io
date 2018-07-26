@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-As part of the [Earth System Science programme](http://www.cuhk.edu.hk/sci/essc/), our aim is to observe and understand the Cryosphere, especially the ongoing changes of the ice sheets and frozen ground. We use a wide range of methods and datasets, including geophysics, geodesy, and remote sensing.
+As part of the [Earth System Science programme](http://www.cuhk.edu.hk/sci/essc/), our research group observe and understand the Cryosphere, especially the ongoing changes of the ice sheets and frozen ground. 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -54,5 +54,5 @@ As part of the [Earth System Science programme](http://www.cuhk.edu.hk/sci/essc/
 
 We use a wide range of methods, including geophysics, geodesy, and remote sensing. We adopt new tools, develop new algorithms, make new observations to quantify the dynamics of the crospheric systems (see [Research](research)).
 
- **We are  looking for passionate new PhD students and Postdocs to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for new PhD students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 

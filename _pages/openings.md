@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "Cryosphere Lab - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
@@ -10,19 +10,18 @@ permalink: /vacancies
 
 We are always looking for new group members with passion, talent, and grit! 
 
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
+#### PhD positions
+Our group normally takes one or two new PhD students every year. If you are interested in pursuing PhD degree in our group, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV.
 
-#### PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line.
+For more information and deadlines regarding PhD application, refer to our [postgraduate programme](http://www.cuhk.edu.hk/sci/essc/pg_prg.html) 
 
-There are some postdoc scholarship available.  I'd be happy to support you after you apply to our group. Take a look at the [veni fellowship](http://www.nwo.nl/en/funding/our-funding-instruments/nwo/innovational-research-incentives-scheme/veni/index.html) or the [Marie Curie fellowship](http://ec.europa.eu/research/mariecurieactions/about-msca/actions/if/index_en.htm). 
+You are highly suggested to apply for the prestigious **Hong Kong PhD Fellowship Scheme**. The application deadline is 1 December every year. Please refer to [this website](http://www.rgc.edu.hk/hkphd) for further details of the Scheme. 
 
-#### Leiden University master students
-If you are a Master student at Leiden University looking for a Master project, contact me (or any group member) per email or stop by my office. 
+#### Postdoc positions
+Currently unavailable
 
-#### Bsc / Master students from elsewhere
-If you are interested in pursuing a Master degree at Leiden University, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades or a personal recomendation).
-
+#### CUHK undergraduate students
+If you are an undergraduate student at CUHK looking for a research project, contact me by [email](mailto:liulin@cuhk.edu.hk) or stop by my office. 
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
