@@ -12,11 +12,32 @@
   info: PhD student
   email: xiyu_chen@link.cuhk.edu.hk
   number_educ: 0
-  education1:
+  education1: BSc and Master in , Beijing Normal University, China
   
-- name: Corne Koks
+- name: Yan Hu
   photo: rock.jpg
-  info: Master student
-  email: -@Physics.LeidenUniv.nl
+  info: PhD student
+  email: huyan@link.cuhk.edu.hk
   number_educ: 0
-  education1:
+  education1: BSc and Master in Geology, Peking University, China
+  
+- name: Liangcao Huang
+  photo: rock.jpg
+  info: PhD student
+  email: huanglingcao@link.cuhk.edu.hk
+  number_educ: 0
+  education1: BSc and Master in Remote Sensing, Wuhan University, China
+  
+- name: Enze Zhang
+  photo: rock.jpg
+  info: PhD student
+  email: zhangenze@link.cuhk.edu.hk
+  number_educ: 0
+  education1: BSc in Geophysics, University of Science and Technology of China
+  
+- name: Jiahua Zhang
+  photo: rock.jpg
+  info: PhD student
+  email: zhangjiahua@link.cuhk.edu.hk
+  number_educ: 0
+  education1: BSc and Master in Geodesy and Survey Engineering, Wuhan University, China
