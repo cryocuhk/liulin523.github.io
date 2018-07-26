@@ -76,10 +76,10 @@ permalink: /team/
 ## Alumni
 <table align="center" style="width:100%">
 <tr> <th>Graduate Students</th> </tr>
+    <td>Joseph Ma Ho Yin, MPhi 2014-2016, now PhD student at National University of Singapore </td>
 
 <tr>    <th>Postdocs and Visitors</th> </tr>
   <tr>
-    <td>Joseph Ma Ho Yin, MPhi 2014-2016, now PhD student at National University of Singapore </td>
     <td>Bao Zhang, Postdoc 2017-2018, now at Wuhan University</td>
   </tr>
 </table>
