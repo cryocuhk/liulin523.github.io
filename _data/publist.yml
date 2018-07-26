@@ -188,3 +188,93 @@
     url: https://www.the-cryosphere.net/7/1109/2013/
     display: The Cryosphere (2013)
   highlight: 0
+
+- title: Detecting unfrozen sediments below thermokarst lakes with Surface Nuclear Magnetic Resonance
+  image: dummy.png
+  description:
+  authors: Andrew Parsekian, Guido Grosse, Jan  Walbrecker, Mike Müller‐Petke, Kristina Keating, Lin Liu, Benjamin Jones, Rosemary Knight
+  link:
+    url: https://doi.org/10.1002/grl.50137 
+    display: Geophysical Research Letters (2013)
+  highlight: 0
+
+- title: The use of GPS horizontals for loading studies, with applications to northern California and southeast Greenland
+  image: dummy.png
+  description:
+  authors: John Wahr, Shfaqat A. Khan, Tonie van Dam, Lin Liu, Jan van Angelen, Michiel van den Broeke, Charles Meertens
+  link:
+    url: https://doi.org/10.1002/jgrb.50104 
+    display: "Journal of Geophysical Research: Solid Earth (2013)"
+  highlight: 0
+
+- title: Vertical and horizontal surface displacements near Jakobshavn Isbræ driven by melt-induced and dynamic ice loss
+  image: dummy.png
+  description:
+  authors: Karina Nielsen, Shfaqat A. Khan, Giorgio Spada, John Wahr, Michael Bevis, Lin Liu, Tonie van Dam
+  link:
+    url: https://doi.org/10.1002/jgrb.50145 
+    display: "Journal of Geophysical Research: Solid Earth (2013)"
+  highlight: 0
+
+- title: Constraining ice mass loss from Jakobshavn Isbræ (Greenland) using InSAR-measured crustal uplift
+  image: dummy.png
+  description:
+  authors: Lin Liu, John Wahr, Ian Howat, Shfaqat Abbas Khan, Ian Joughin, Masato Furuya
+  link:
+    url: https://doi.org/10.1111/j.1365-246X.2011.05317.x
+    display: Geophysical Journal International (2012)
+  highlight: 0
+
+- title: Estimating 1992–2000 average active layer thickness on the Alaskan North Slope from remotely sensed surface subsidence
+  image: dummy.png
+  description:
+  authors: Lin Liu, Kevin Schaefer, Tingjun Zhang, John Wahr
+  link:
+    url: https://doi.org/10.1029/2011JF002041 
+    display: "Journal of Geophysical Research: Earth Surface (2012)"
+  highlight: 0
+
+- title: InSAR measurements of surface deformation over permafrost on the North Slope of Alaska
+  image: dummy.png
+  description:
+  authors: Lin Liu, Tingjun Zhang, John Wahr
+  link:
+    url: https://doi.org/10.1029/2009JF001547 
+    display: "Journal of Geophysical Research: Earth Surface (2010)"
+  highlight: 0
+
+- title: GPS measurements of crustal uplift near Jakobshavn Isbræ due to glacial ice mass loss
+  image: dummy.png
+  description:
+  authors: Shfaqat Abbas Khan, Lin Liu, John Wahr, Ian Howat, Ian Joughin, Tonie van Dam, Kevin Fleming
+  link:
+    url: https://doi.org/10.1029/2010JB007490 
+    display: "Journal of Geophysical Research: Solid Earth (2010)"
+  highlight: 0
+
+- title: "Surface motion of active rock glaciers in the Sierra Nevada, California, USA: inventory and a case study using InSAR"
+  image: dummy.png
+  description:
+  authors: Lin Liu, Constance Millar, Robert Westfall, Howard Zebker
+  link:
+    url: https://www.the-cryosphere.net/7/1109/2013/
+    display: The Cryosphere (2013)
+  highlight: 0
+
+- title: "Surface motion of active rock glaciers in the Sierra Nevada, California, USA: inventory and a case study using InSAR"
+  image: dummy.png
+  description:
+  authors: Lin Liu, Constance Millar, Robert Westfall, Howard Zebker
+  link:
+    url: https://www.the-cryosphere.net/7/1109/2013/
+    display: The Cryosphere (2013)
+  highlight: 0
+
+- title: "Surface motion of active rock glaciers in the Sierra Nevada, California, USA: inventory and a case study using InSAR"
+  image: dummy.png
+  description:
+  authors: Lin Liu, Constance Millar, Robert Westfall, Howard Zebker
+  link:
+    url: https://www.the-cryosphere.net/7/1109/2013/
+    display: The Cryosphere (2013)
+  highlight: 0
