@@ -1,6 +1,6 @@
 ---
 title: "Cryosphere Lab - Misc"
-layout: piclay
+layout: page
 excerpt: ""Cryosphere Lab - Misc"
 permalink: /pictures/
 ---

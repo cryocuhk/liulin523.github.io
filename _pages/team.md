@@ -77,9 +77,18 @@ permalink: /team/
 <table align="center" style="width:100%">
 <tr> <th>Graduate Students</th> </tr>
     <td>Joseph Ma Ho Yin, MPhi 2014-2016, now PhD student at National University of Singapore </td>
+    <td> </td>
 
 <tr>    <th>Postdocs and Visitors</th> </tr>
   <tr>
     <td>Bao Zhang, Postdoc 2017-2018, now at Wuhan University</td>
+    <td>Yufeng Hu, Visiting PhD student 2017-2018, now at Chang'an University</td>
+    <td>Zhenming Wu, Visiting master student</td> 
+    <td>Jiahui Wang, Visiting undergraduate student</td> 
+    <td>Yongxin Liu, Visiting undergraduate student</td> 
+    <td>Xiaowen Wang, Visiting PhD student 2016-2017, now at University of Tokyo</td>
+    <td>Wanwan Shao, Visiting PhD student 2016-2017, now at Lanzhou University</td> 
+    <td>Weiyu Zheng, Visiting undergraduate student</td> 
   </tr>
+
 </table>
