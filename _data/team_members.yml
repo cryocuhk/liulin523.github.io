@@ -1,6 +1,6 @@
 - name: Lin Liu
   photo: rock.jpg
-  info: Assistant Professor, started Jan 2014
+  info: Assistant Professor
   email: liulin@cuhk.edu.hk
   number_educ: 2
   education1: PhD in Geophysics, University of Colorado at Boulder
@@ -8,15 +8,15 @@
   
 - name: Guoyan Jiang
   photo: rock.jpg
-  info: Hong Kong Scholar (Postdoc), started Nov 2016
+  info: Hong Kong Scholar (Postdoc)
   email: guoyan.jiang@gmail.com
   number_educ: 2
   education1: PhD in Geodesy and Geomatics Engineering, Wuhan University
   education2: Postdoc, Institute of Geology, China Earthquake Administration
 
 - name: Jiangjun Ran
-  photo: rock.png
-  info: Postdoc, started Feb 2018
+  photo: rock.jpg
+  info: Postdoc
   email: jiangjunran@gmail.com
   number_educ: 2
   education1: PhD in Physical Geodesy, Delft University of Technology
