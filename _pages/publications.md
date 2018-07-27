@@ -8,7 +8,7 @@ permalink: /publications/
 
 
 # Publications
-For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com.hk/citations?user=5VBaQTIAAAAJ&hl=en)
+For a full list see [below](#list-of-publications) or go to [Google Scholar](https://scholar.google.com.hk/citations?user=5VBaQTIAAAAJ&hl=en)
 
 ## Highlights
 
