@@ -51,7 +51,7 @@ For a full list see [below](#full-list) or go to [Google Scholar](https://schola
 <p> &nbsp; </p>
 
 
-## Full List
+## List of Publications
 
 {% for publi in site.data.publist %}
 
