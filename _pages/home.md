@@ -1,12 +1,12 @@
 ---
 title: "Cryosphere Lab - Home"
 layout: homelay
-excerpt: "Cryosphere Lab at The Chinese University of Hong Kong."
+excerpt: "Cryosphere Lab @ CUHK"
 sitemap: false
 permalink: /
 ---
 
-As part of the [Earth System Science programme](http://www.cuhk.edu.hk/sci/essc/) at The Chinese University of Hong Kong, our research group observe and understand the Cryosphere, especially the ongoing changes of the ice sheets and frozen ground. 
+As part of the [Earth System Science programme](http://www.cuhk.edu.hk/sci/essc/) at The Chinese University of Hong Kong (CUHK), our research group observe and understand the Cryosphere, especially the ongoing changes of the ice sheets and frozen ground. 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="8000" data-pause="hover" >
     <!-- Menu -->

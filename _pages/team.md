@@ -57,7 +57,7 @@ permalink: /team/
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <br>
   Research interests:
-  <ul class="list-unstyled" style="overflow: hidden"> 
+  <ul style="overflow: hidden" list-style="circle outside"> 
   {% if member.number_intr == 1 %}
   <li> {{ member.interest1 }} </li>
   {% endif %}
