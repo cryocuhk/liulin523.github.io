@@ -10,11 +10,11 @@ permalink: /research/
 
 Our overarching goal is to 
 
-Current projects
+## Current projects
 A
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}
 
-Past projects
+## Past projects
 B
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}
 
