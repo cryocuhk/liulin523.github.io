@@ -57,8 +57,6 @@ permalink: /team/
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <br>
   Research interests:
-  <br>
-  <ul style="overflow: hidden">
   
   {% if member.number_intr == 1 %}
   <li> {{ member.interest1 }} </li>
@@ -81,7 +79,6 @@ permalink: /team/
   <li> {{ member.interest3 }} </li>
   <li> {{ member.interest4 }} </li>
   {% endif %}
-  </ul>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
