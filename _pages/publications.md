@@ -8,10 +8,9 @@ permalink: /publications/
 
 
 # Publications
+For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com.hk/citations?user=5VBaQTIAAAAJ&hl=en)
 
 ## Highlights
-
-For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com.hk/citations?user=5VBaQTIAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0002-9581-1337)
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
