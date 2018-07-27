@@ -1,4 +1,4 @@
-- name: Lin Liu [CV]({{"/assets/cv_linliu.pdf"}}) 
+- name: Lin Liu [CV]("{{ site.url }}{{ site.baseurl }}/assets/cv_linliu.pdf"}}) 
   photo: rock.jpg
   info: Assistant Professor
   email: liulin@cuhk.edu.hk
