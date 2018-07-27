@@ -40,6 +40,7 @@ permalink: /team/
 </div>
 {% endif %}
 
+
 # Group Members
 
 {% assign number_printed = 0 %}
@@ -56,14 +57,14 @@ permalink: /team/
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <br>
-  Research interests t3:
+  Research interests t0:
   {% if member.number_intr == 1 %}
-  - {{ member.interest1 }} 
+  {{ member.interest1 }} 
   {% endif %}
   
   {% if member.number_intr == 2 %}
-  - {{ member.interest1 }} 
-  - {{ member.interest2 }} 
+  {{ member.interest1 }} 
+  {{ member.interest2 }} 
   {% endif %}
 </div>
 
@@ -83,6 +84,7 @@ permalink: /team/
 
  **We are  looking for new PhD students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
+## Collaborators
 
 ## Alumni
 **Graduate Students**<br />
