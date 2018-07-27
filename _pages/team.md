@@ -20,10 +20,8 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i> <br />
-  [CV] ({{ member.cv }}) <br />
-  Research Interests <br />
-   <li> {{ member.interest }} </li>
+  <i>{{ member.info }}<br>email: <{{ member.email }}></i> 
+  [CV] ({{ member.cv }}) 
 
   <ul style="overflow: hidden">
   
@@ -114,7 +112,7 @@ permalink: /team/
 
 ## Alumni
 **Graduate Students**<br />
-Joseph Ma Ho Yin, MPhi 2014-2016, now PhD student at National University of Singapore <br />
+Joseph Ma Ho Yin,  <p>MPhi 2014-2016,</p> now PhD student at National University of Singapore <br />
 
 **Postdocs**<br />
 Bao Zhang, Postdoc 2017-2018, now at Wuhan University <br />
