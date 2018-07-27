@@ -6,4 +6,6 @@ sitemap: false
 permalink: /misc
 ---
 
+# Miscellaneous
+
 This page is under construction.
