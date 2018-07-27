@@ -21,10 +21,10 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i> 
-  [CV] ({{ member.cv }}) 
+  [CV] ({{ member.cv }}) <a href="{{ site.url }}{{ site.baseurl }}"> test</a>
 
   {{ member.education1 }}
-  {{ member.interest }} 
+  Research interests: {{ member.interest }} 
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -109,7 +109,7 @@ permalink: /team/
 
 ## Alumni
 **Graduate Students**<br />
-Joseph Ma Ho Yin, MPhi student 2014-2016, now PhD student at National University of Singapore <br />
+Joseph Ma Ho Yin, <p> MPhi student 2014-2016, </p> now PhD student at National University of Singapore <br />
 
 **Postdocs**<br />
 Bao Zhang, Postdoc 2017-2018, now at Wuhan University <br />
