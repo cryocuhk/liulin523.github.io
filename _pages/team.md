@@ -25,8 +25,8 @@ permalink: /team/
 
   <ul style="overflow: hidden">
   
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
+  {{ member.education1 }}
+  {{ member.interest }} 
   </ul>
 </div>
 
@@ -112,7 +112,7 @@ permalink: /team/
 
 ## Alumni
 **Graduate Students**<br />
-Joseph Ma Ho Yin,  <p>MPhi 2014-2016,</p> now PhD student at National University of Singapore <br />
+Joseph Ma Ho Yin,  | MPhi 2014-2016, | now PhD student at National University of Singapore <br />
 
 **Postdocs**<br />
 Bao Zhang, Postdoc 2017-2018, now at Wuhan University <br />

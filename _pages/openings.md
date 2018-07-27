@@ -5,6 +5,7 @@ excerpt: "Openings"
 sitemap: false
 permalink: /openings
 ---
+# Openings 
 
 ## PhD positions
 Our group takes one or two new PhD students every year. If you are interested in pursuing PhD degree in our group, please send me an [email](mailto:liulin@cuhk.edu.hk). State briefly why you are interested and attach a CV.
