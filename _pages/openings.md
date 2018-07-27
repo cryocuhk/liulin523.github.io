@@ -1,9 +1,9 @@
 ---
-title: "Cryosphere Lab - Vacancies"
+title: "Cryosphere Lab - Openings"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
-permalink: /vacancies
+permalink: /openings
 ---
 
 # Open positions
