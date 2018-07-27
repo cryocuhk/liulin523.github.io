@@ -129,7 +129,6 @@ permalink: /team/
 
 
 ## Alumni
-<div class="col-sm-10 clearfix">
 **Graduate Students**<br />
 Joseph Ma Ho Yin, MPhi 2014-2016, now PhD student at National University of Singapore <br />
 
@@ -145,5 +144,3 @@ Yongxin Liu, Visiting undergraduate student, 2017, now Master student at Peking 
 Xiaowen Wang, Visiting PhD student 2016-2017, now at University of Tokyo <br />
 Wanwan Shao, Visiting PhD student 2016-2017, now at Lanzhou University <br />
 Weiyu Zheng, Visiting undergraduate student, 2015, now PhD student at Southern Methodist University <br />
-
-</div>
