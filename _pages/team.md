@@ -21,7 +21,7 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i> 
-  [CV] ({{ member.cv }}) <a href="{{ site.url }}{{ site.baseurl }}"> test</a>
+  <i><a href="{{ site.url }}{{ site.baseurl }}/assets/{{ member.cv }}"> test cv</a></i>
 
   {{ member.education1 }}
   Research interests: {{ member.interest }} 
