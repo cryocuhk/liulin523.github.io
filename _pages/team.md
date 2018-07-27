@@ -21,6 +21,7 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+  CV <{{ member.cv }}>
   <ul style="overflow: hidden">
   
   <li> {{ member.education1 }} </li>
