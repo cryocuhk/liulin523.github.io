@@ -1,11 +1,3 @@
-- name: Lin Liu
-  photo: rock.jpg
-  info: Assistant Professor
-  email: liulin@cuhk.edu.hk
-  number_educ: 2
-  education1: PhD in Geophysics, University of Colorado at Boulder
-  education2: George Thompson Postdoc Fellow, Stanford University
-  
 - name: Xiyu Chen
   photo: rock.jpg
   info: PhD student
