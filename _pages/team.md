@@ -57,29 +57,15 @@ permalink: /team/
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <br>
   Research interests t2:
-  <ul style="overflow: hidden" list-style="decimal outside" margin-left="-5px"> 
   {% if member.number_intr == 1 %}
-  <li> {{ member.interest1 }} </li>
+  - {{ member.interest1 }} 
   {% endif %}
   
   {% if member.number_intr == 2 %}
-  <li> {{ member.interest1 }} </li>
-  <li> {{ member.interest2 }} </li>
+  - {{ member.interest1 }} 
+  - {{ member.interest2 }} 
   {% endif %}
   
-  {% if member.number_intr == 3 %}
-  <li> {{ member.interest1 }} </li>
-  <li> {{ member.interest2 }} </li>
-  <li> {{ member.interest3 }} </li>
-  {% endif %}
-  
-  {% if member.number_intr == 4 %}
-  <li> {{ member.interest1 }} </li>
-  <li> {{ member.interest2 }} </li>
-  <li> {{ member.interest3 }} </li>
-  <li> {{ member.interest4 }} </li>
-  {% endif %}
-  </ul>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
