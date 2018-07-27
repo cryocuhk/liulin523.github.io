@@ -21,7 +21,7 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i> 
-
+  <br>
   <a href="{{ site.url }}{{ site.baseurl }}/assets/{{ member.cv }}"> CV </a>
 
   Research interests: {{ member.interest }} 
@@ -112,9 +112,6 @@ permalink: /team/
 Joseph Ma Ho Yin, MPhi student 2014-2016, now PhD student at National University of Singapore <br />
 
 **Postdocs**<br />
-<div class="col-sm-10">
-<p> Bao Zhang, </p> <p> date, </p>
-</div>
 Bao Zhang, Postdoc 2017-2018, now at Wuhan University <br />
 Zhiwei Zhou, Postdoc 2017-2018, now at Institute of Geodesy and Geophysics, Chinese Academy of Sciences <br />
 
