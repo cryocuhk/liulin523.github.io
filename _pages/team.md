@@ -24,9 +24,7 @@ permalink: /team/
   <br>
   <a href="http://www.cuhk.edu.hk/sci/essc/people/liu.html"> Personal Webpage </a>
   <br>
-  <a href="{{ site.url }}{{ site.baseurl }}/assets/{{ member.cv }}"> CV </a>
-  <br>
-  Research interests: {{ member.interest }} 
+  <a href="{{ site.url }}{{ site.baseurl }}/assets/{{ member.cv }}"> CV </a> and  <a href="https://scholar.google.com.hk/citations?user=5VBaQTIAAAAJ&hl=en"> Google Scholar </a>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -80,15 +78,6 @@ permalink: /team/
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
   {% endif %}
- 
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
-  {% endif %}
-  
   </ul>
 </div>
 
@@ -106,7 +95,7 @@ permalink: /team/
 {% endif %}
 
 
- **We are  looking for new PhD students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for new PhD students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
 
 ## Alumni
