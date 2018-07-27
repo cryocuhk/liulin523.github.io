@@ -17,6 +17,15 @@
   highlight: 1
   news2: Data are published on <a href="https://doi.pangaea.de/10.1594/PANGAEA.885935"> PANGAE</a>
 
+- title: Sentinel-1 InSAR measurements of surface elevation changes over yedoma uplands on Sobo-Sise Island, Lena Delta
+  image: dummy.png
+  description: ""
+  authors: Jie Chen,Frank Günther, Guido Grosse, Lin Liu, Hui Lin
+  link:
+    url: http://www.mdpi.com/2072-4292/10/7/1152
+    display:  Remote Sensing (2018)
+  highlight: 0
+
 - title: "Permafrost stores a globally significant amount of mercury"
   image: SmartPub.png
   description: The amount of natural mercury stored in permafrost is twice as much as the rest of all soils, the atmosphere, and ocean combined.
