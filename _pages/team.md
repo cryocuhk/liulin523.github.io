@@ -54,11 +54,11 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
+  <h3>{{ member.name }}</h3>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <br>
   <br>
-  Research interests t0:
+  Research interests:
   <ul style="overflow: hidden">
   {% if member.number_intr == 1 %}
   <li> {{ member.interest1 }} </li>
