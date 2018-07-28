@@ -22,6 +22,9 @@ Currently unavailable
 ## CUHK undergraduate students
 If you are an undergraduate student at CUHK looking for a research project, contact me by [email](mailto:liulin@cuhk.edu.hk) or stop by my office. 
 
+<!---
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
 </figure>
+-->
+
