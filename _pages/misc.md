@@ -10,14 +10,13 @@ This page is under construction.
 # Miscellaneous
 
 ## Group Meetings
-Fall 2018
+Fall 2018 <\br>
 July 31 
 August 6
 
 ## Educational materials
 
-[Geodesy and Gravity](http://fgg-web.fgg.uni-lj.si/~/mkuhar/Zalozba/Geodesy_Gravity_Wahr.pdf), a class note written by John M. Wahr
-<a href="{{ site.url }}{{ site.baseurl }}/assets/{{Wahr_Geodesy.pdf }}"> pdf </a>
+<a href="{{ site.url }}{{ site.baseurl }}/assets/Wahr_Geodesy.pdf">  Geodesy and Gravity</a>, a class note written by <a href="http://www.johnwahr.com"> John M. Wahr</a>.
 
 ## Useful links
 
