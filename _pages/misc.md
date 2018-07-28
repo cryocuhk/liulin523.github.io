@@ -10,8 +10,10 @@ This page is under construction.
 # Miscellaneous
 
 ## Group Meetings
-Fall 2018 <\br>
+Fall 2018 
+
 July 31 
+
 August 6
 
 ## Educational materials

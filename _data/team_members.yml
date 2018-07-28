@@ -14,6 +14,8 @@
   email: huyan@link.cuhk.edu.hk
   number_educ: 1
   education1: BSc and Master in Geology, Peking University, China
+  number_intr: 1
+  interest1: Periglacial landforms in western China 
   
 - name: Liangcao Huang
   photo: rock.jpg
@@ -21,6 +23,8 @@
   email: huanglingcao@link.cuhk.edu.hk
   number_educ: 1
   education1: BSc and Master in Remote Sensing, Wuhan University, China
+  number_intr: 1
+  interest1: 
   
 - name: Guoyan Jiang
   photo: rock.jpg
@@ -29,6 +33,8 @@
   number_educ: 2
   education1: PhD in Geodesy and Geomatics Engineering, Wuhan University
   education2: Postdoc, Institute of Geology, China Earthquake Administration
+  number_intr: 1
+  interest1: 
 
 - name: Jiangjun Ran
   photo: rock.jpg
@@ -37,6 +43,8 @@
   number_educ: 2
   education1: PhD in Physical Geodesy, Delft University of Technology
   education2: Master in Geodesy and Surveying Engineering, Chinese Academy of Sciences
+  number_intr: 1
+  interest1: 
 
 - name: Enze Zhang
   photo: rock.jpg
@@ -44,6 +52,8 @@
   email: zhangenze@link.cuhk.edu.hk
   number_educ: 1
   education1: BSc in Geophysics, University of Science and Technology of China
+  number_intr: 1
+  interest1: 
   
 - name: Jiahua Zhang
   photo: rock.jpg
@@ -51,3 +61,5 @@
   email: zhangjiahua@link.cuhk.edu.hk
   number_educ: 1
   education1: BSc and Master in Geodesy and Survey Engineering, Wuhan University, China
+  number_intr: 1
+  interest1: 
