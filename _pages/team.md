@@ -60,7 +60,7 @@ permalink: /team/
   <br>
   <br>
   <p class="mb-0"> Research interests:</p>
-  <ul style="overflow: hidden" padding-left="1em" margin-top="-1px">
+  <ul style="overflow: hidden" padding-left="0em" margin-top="-10px">
   {% if member.number_intr == 1 %}
   <li> {{ member.interest1 }} </li>
   {% endif %}
