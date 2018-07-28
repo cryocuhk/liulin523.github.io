@@ -32,7 +32,7 @@ As part of the [Earth System Science programme](http://www.cuhk.edu.hk/sci/essc/
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/ice_berg.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/thaw_permafrost_observations.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/group2017.jpg" alt="Slide 4" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/frozen_lake.jpg" alt="Slide 5" />
