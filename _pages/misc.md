@@ -6,10 +6,10 @@ sitemap: false
 permalink: /misc
 ---
 
+This page is under construction.
 # Miscellaneous
 
-## Electronic Books
+## Educational materials
 
 [Geodesy and Gravity](http://fgg-web.fgg.uni-lj.si/~/mkuhar/Zalozba/Geodesy_Gravity_Wahr.pdf), a class note written by John M. Wahr
 
-This page is under construction.
