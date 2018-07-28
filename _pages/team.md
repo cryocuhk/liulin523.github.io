@@ -88,8 +88,6 @@ permalink: /team/
 
  **We are  looking for new PhD students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
-## Collaborators
-
 ## Alumni
 **Graduate Students**<br />
 Joseph Ma Ho Yin, MPhi student 2014-2016, now PhD student at National University of Singapore <br />
