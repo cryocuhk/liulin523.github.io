@@ -58,6 +58,7 @@ permalink: /team/
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <br>
   <br>
+  <br>
   Research interests:
   <ul style="overflow: hidden" padding-left="1em" margin-top="0px">
   {% if member.number_intr == 1 %}
