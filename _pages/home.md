@@ -52,7 +52,7 @@ As part of the [Earth System Science programme](http://www.cuhk.edu.hk/sci/essc/
 </div>
 
 
-We use a wide range of methods, including geophysics, geodesy, and remote sensing. We adopt new tools, develop new algorithms, make new observations to quantify the dynamics of the crospheric systems (see [Research](research)).
+We use a wide range of methods, including geophysics, geodesy, and remote sensing. We adopt new tools, develop new algorithms, make new observations to quantify the dynamics of the cryospheric systems (see [Research](research)).
 
  **We are  looking for new PhD students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
