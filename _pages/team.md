@@ -19,7 +19,7 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h6>{{ member.name }}</h6>
+  <h3>{{ member.name }}</h3>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i> 
   <br>
   <a href="http://www.cuhk.edu.hk/sci/essc/people/liu.html"> Personal Webpage </a>
@@ -58,15 +58,15 @@ permalink: /team/
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <br>
   <br>
-  Research interests t1:
+  Research interests t0:
   <ul style="overflow: hidden">
   {% if member.number_intr == 1 %}
-  {{ member.interest1 }} 
+  <li> {{ member.interest1 }} </li>
   {% endif %}
   
   {% if member.number_intr == 2 %}
-  - {{ member.interest1 }} 
-  - {{ member.interest2 }} 
+  <li> {{ member.interest1 }} </li>
+  <li> {{ member.interest2 }} </li>
   {% endif %}
   </ul>
 </div>
