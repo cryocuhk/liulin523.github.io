@@ -8,7 +8,7 @@
   highlight: 0
 
 - title: "Decadal changes of surface elevation over permafrost area estimated using reflected GPS signals"
-  image: Fano.png
+  image: gps_ir_diagram.jpg
   description: We use a new type of observations, GPS signals reflected from ground surface, to retrieve a decadal long time series of elevation changes over permafrost area.
   authors: Lin Liu, Kristine M. Larson
   link:
@@ -35,7 +35,7 @@
     display:  Geophysical Research Letters (2018)
   highlight: 1
   news1: In the top 5% of all research outputs scored by <a href="https://www.altmetric.com/details/32698388" > Altmetric </a>
-  news2: Highlighted article at <a href="https://news.agu.org/press-release/scientists-find-massive-reserves-of-mercury-hidden-in-permafrost" > AGU </a>
+  news2: Highlighted by <a href="https://news.agu.org/press-release/scientists-find-massive-reserves-of-mercury-hidden-in-permafrost" > AGU </a>
 
 - title: "Surface deformation monitoring in the permafrost regions over Tibetan Plateau using Sentinel-1 data"
   image: dummy.png
