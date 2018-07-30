@@ -115,7 +115,7 @@
   link:
     url: https://doi.org/10.1002/2015JF003599 
     display:  Journal of Geophysical Research - Earth Surface (2015) 
-  highlight: 1
+  highlight: 0
   news2: 
 
 - title: Recent Arctic tundra fire initiates widespread thermokarst development
@@ -127,7 +127,7 @@
   link:
     url: https://www.nature.com/articles/srep15865
     display:  Scientific Reports (2015) 
-  highlight: 1
+  highlight: 0
   news: 
 
 - title: Remotely Sensed Active Layer Thickness (ReSALT) at Barrow, Alaska Using Interferometric Synthetic Aperture Radar
@@ -151,7 +151,7 @@
   highlight: 0
 
 - title: InSAR detects increase in surface subsidence caused by an Arctic tundra fire
-  image: Pub_nemat1.png
+  image: fire_sub.png
   description: "ADD Description"
   authors: Lin Liu,  Elchin Jafarov,  Kevin Schaefer,  Benjamin Jones,  Howard Zebker, Christopher Williams,  John Rogan,  Tingjun Zhang
   link:
