@@ -16,9 +16,8 @@ Under construction
 Yan Hu is currently working on mapping permafrost landforms in western China, such as rock glaciers, protalus lobes, solifluction sheets etc, and quantifying their kinematic characteristics in order to understand their variations and potential response and impact in the context of global climate change. Her research is based on remote sensing especially InSAR technique and in-situ geological and geophysical investigations. 
 
 <div class="container">
-  <h2>Rounded Corners</h2>
   <p>The .img-rounded class adds rounded corners to an image (not available in IE8):</p>            
-  <img src="cinqueterre.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236"> 
+  <img src="{{ site.url }}{{ site.baseurl }}/images/research/yan_jingxian.png" class="img-rounded" alt="Cinque Terre" width="500"> 
 </div>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/research/yan_jingxian.png){: style="width: 500px; float: right; border: 10px"}
