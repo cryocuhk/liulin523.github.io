@@ -93,14 +93,17 @@ permalink: /team/
 Joseph Ma Ho Yin, MPhi student 2014-2016, now PhD student at National University of Singapore <br />
 
 **Postdocs**<br />
-Bao Zhang, Postdoc 2017-2018, now at Wuhan University <br />
-Zhiwei Zhou, Postdoc 2017-2018, now at Institute of Geodesy and Geophysics, Chinese Academy of Sciences <br />
+Bao Zhang, 2017-2018, now at Wuhan University <br />
+Zhiwei Zhou, 2017-2018, now at Institute of Geodesy and Geophysics, Chinese Academy of Sciences <br />
 
-**Visitors**<br />
+**Research Assistants**<br />
+Kenneth Ho Ngai Lun, 2017-2018 <br />
+Xiaowen Wang, 2016-2017, now at University of Tokyo <br />
+
+**Visiting Students**<br />
 Yufeng Hu, Visiting PhD student 2017-2018, now at Chang'an University <br />
 Zhenming Wu, Visiting master student, 2017, now PhD student at Reading University <br />
 Jiahui Wang, Visiting undergraduate student, 2017, now PhD student at Southern Methodist University <br />
 Yongxin Liu, Visiting undergraduate student, 2017, now Master student at Peking University <br />
-Xiaowen Wang, Visiting PhD student 2016-2017, now at University of Tokyo <br />
 Wanwan Shao, Visiting PhD student 2016-2017, now at Lanzhou University <br />
 Weiyu Zheng, Visiting undergraduate student, 2015, now PhD student at Southern Methodist University <br />
