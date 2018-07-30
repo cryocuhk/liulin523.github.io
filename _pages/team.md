@@ -64,23 +64,10 @@ permalink: /team/
   {% if member.number_intr == 1 %}
   <li> {{ member.interest1 }} </li>
   {% endif %}
-  
+
   {% if member.number_intr == 2 %}
   <li> {{ member.interest1 }} </li>
   <li> {{ member.interest2 }} </li>
-  {% endif %}
-  
-  {% if member.number_intr == 3 %}
-  <li> {{ member.interest1 }} </li>
-  <li> {{ member.interest2 }} </li>
-  <li> {{ member.interest3 }} </li>
-  {% endif %}
-  
-  {% if member.number_intr == 4 %}
-  <li> {{ member.interest1 }} </li>
-  <li> {{ member.interest2 }} </li>
-  <li> {{ member.interest3 }} </li>
-  <li> {{ member.interest4 }} </li>
   {% endif %}
   </ul>
 </div>
