@@ -23,7 +23,7 @@ As part of the [Earth System Science programme](http://www.cuhk.edu.hk/sci/essc/
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/jingxian.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/sinkhole.jpg" alt="Slide 1" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/greenland_glacier.jpg" alt="Slide 2" />
