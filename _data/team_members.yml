@@ -9,13 +9,15 @@
   interest2: Microwave remote sensing of snow
   
 - name: Yan Hu
-  photo: Doraemon.png
+  photo: yan.jpg
   info: PhD student
   email: huyan@link.cuhk.edu.hk
   number_educ: 1
   education1: BSc and Master in Geology, Peking University, China
   number_intr: 1
   interest1: Periglacial landforms in western China 
+  interest2: Rock glacier dynamics
+  interest3: Permafrost degradation and climate change
   
 - name: Liangcao Huang
   photo: Doraemon.png
