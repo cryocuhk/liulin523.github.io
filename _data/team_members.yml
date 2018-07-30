@@ -27,14 +27,16 @@
   interest1: 
   
 - name: Guoyan Jiang
-  photo: Doraemon.png
-  info: Hong Kong Scholar (Postdoc)
+  photo: guoyan.png
+  info: Postdoc
   email: guoyan.jiang@gmail.com
   number_educ: 2
   education1: PhD in Geodesy and Geomatics Engineering, Wuhan University
   education2: Postdoc, Institute of Geology, China Earthquake Administration
-  number_intr: 1
-  interest1: 
+  number_intr: 3
+  interest1: Tectonic and non-tectonic geodesy
+  interest2: Poroelastic simulation
+  interest3: Induced seismicity
 
 - name: Jiangjun Ran
   photo: Doraemon.png
