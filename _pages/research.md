@@ -19,7 +19,7 @@ Yan Hu is currently working on mapping permafrost landforms in western China, su
 Check out this short video to get a glimps of her recent work.
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src=" https://www.youtube.com/watch?v=xL42_UPkvI0&t=10s" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=xL42_UPkvI0&t=10s" allowfullscreen></iframe>
 </div>
 
 ## Past projects
