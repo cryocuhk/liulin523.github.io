@@ -69,6 +69,13 @@ permalink: /team/
   <li> {{ member.interest1 }} </li>
   <li> {{ member.interest2 }} </li>
   {% endif %}
+
+  {% if member.number_intr == 3 %}
+  <li> {{ member.interest1 }} </li>
+  <li> {{ member.interest2 }} </li>
+  <li> {{ member.interest3 }} </li>
+  {% endif %}
+
   </ul>
 </div>
 
