@@ -10,11 +10,11 @@ This page is under construction.
 # Miscellaneous
 
 ## Group Meetings
-Fall 2018 
+Fall 2018 Schedule (10-11 am, MMW 302)
 
-July 31 
+August 2
 
-August 6
+August 14
 
 ## Educational materials
 
