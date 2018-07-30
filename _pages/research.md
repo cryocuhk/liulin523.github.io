@@ -18,9 +18,6 @@ Yan Hu is currently working on mapping permafrost landforms in western China, su
 <p>Field photo and InSAR images of a group of periglacial landforms in the Eastern Kunlun Shan</p>            
 </div>
 
-#### Timelapse of our STM assembling [(see LION news item)](https://www.physics.leidenuniv.nl/index.php?id=11573&news=867&type=lion&ln=EN):
-<iframe width="560" height="315" src="www.youtube.com/embed/xL42_UPkvI0" frameborder="0" allowfullscreen></iframe>
-
 ####Check out this short video to get a glimps of her recent work:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xL42_UPkvI0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
    
