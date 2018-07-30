@@ -8,13 +8,13 @@ permalink: /research/
 
 # Research
 
-Our overarching goal is to 
+Under construction
 
 ## Current projects
-A
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}
+Project A
+![]({{ site.url }}{{ site.baseurl }}/images/research/jingxian.jpg){: style="width: 300px; float: right; border: 10px"}
 
 ## Past projects
-B
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}
+Project B
+![]({{ site.url }}{{ site.baseurl }}/images/research/greenland.jpg){: style="width: 300px; float: right; border: 10px"}
 
