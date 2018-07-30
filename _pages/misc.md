@@ -16,13 +16,16 @@ August 2
 
 August 14
 
+<p> &nbsp; </p>
+
 ## Educational materials
 
 <a href="{{ site.url }}{{ site.baseurl }}/assets/Wahr_Geodesy.pdf">  Geodesy and Gravity</a>, a class note written by <a href="http://www.johnwahr.com"> John M. Wahr</a>.
+<p> &nbsp; </p>
 
 ## Field photos
 {% assign number_printed = 0 %}
-{% for pic in site.data.pictures_Leiden %}
+{% for pic in site.data.field_pictures %}
 
 {% assign even_odd = number_printed | modulo: 4 %}
 
