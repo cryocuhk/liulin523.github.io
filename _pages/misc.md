@@ -20,5 +20,7 @@ August 14
 
 <a href="{{ site.url }}{{ site.baseurl }}/assets/Wahr_Geodesy.pdf">  Geodesy and Gravity</a>, a class note written by <a href="http://www.johnwahr.com"> John M. Wahr</a>.
 
+## Field photos
+
 ## Useful links
 

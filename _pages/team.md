@@ -82,6 +82,7 @@ permalink: /team/
   <li> {{ member.interest3 }} </li>
   <li> {{ member.interest4 }} </li>
   {% endif %}
+  </ul>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
