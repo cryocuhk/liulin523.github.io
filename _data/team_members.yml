@@ -20,14 +20,16 @@
   interest3: Permafrost degradation and climate change
   
 - name: Liangcao Huang
-  photo: Doraemon.png
+  photo: lingcao.jpg
   info: PhD student
   email: huanglingcao@link.cuhk.edu.hk
   number_educ: 1
   education1: BSc and Master in Remote Sensing, Wuhan University, China
-  number_intr: 1
-  interest1: 
-  
+  number_intr: 3
+  interest1: Thermokarst landforms on the Tibetan Plateau
+  interest2: Automatic mapping methods based on Deep Learning
+  interest3: Ice-rich permafrost responses to climate change
+
 - name: Guoyan Jiang
   photo: guoyan.jpg
   info: Postdoc
