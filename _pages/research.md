@@ -30,7 +30,7 @@ Lingcao Huang, PhD student
 
 Lingcao's research focuses on the distribution of thermokarst landforms, including thaw slumps (above figure) and thermal erosion gullies, on the Tibetan Plateau and the factors affecting it. In many permafrost areas, warming and thawing of ground result in distinct thermokarst landforms in remote and isolated regions. He applies image processing methods, including deep learning algorithm, to multi-source remote sensing data, aiming to map these landforms automatically. He also analyzes the spatial-temporal changes of the mapped landform and investigate the driving factors of their evolution by integrating other data such as digital elevation model and meteorological data.
 
-![]({{ site.url }}{{ site.baseurl }}/images/research/lingcao_thermokarst.png){: style="width: 500px; float: left; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/research/lingcao_thermokarst.png){: style="width: 560px"}
 Left: Ground photo of a thaw slump in Beiluhe, Tibet; Right: Planet Cubesat image, on which, the yellow line outline the thaw slump, and the red arrow indicates the position and looking direction of the ground photo.
 
 This research is funded by the Hong Kong Research Grants Council (Project CUHK14300815).
