@@ -1,0 +1,262 @@
+- title: "GPS Interferometric Reflectometry reveals cyclic elevation changes in thaw and freezing seasons in a permafrost area (Barrow, Alaska)"
+  image: pf_mercury.jpg
+  description: ""
+  authors: Yufeng Hu, Lin Liu, Kristine Larson, Kevin Schaefer, Jiahua Zhang, and Yibin Yao
+  link:
+    url: https://doi.org/10.1029/2018GL077960
+    display:  Geophysical Research Letters (2018)
+  highlight: 0
+
+- title: "Decadal changes of surface elevation over permafrost area estimated using reflected GPS signals"
+  image: gps_ir_diagram.jpg
+  description: We use a new type of observations, GPS signals reflected from ground surface, to retrieve a decadal long time series of elevation changes over permafrost area.
+  authors: Lin Liu, Kristine M. Larson
+  link:
+    url: https://www.the-cryosphere.net/12/477/2018/
+    display:  The Cryosphere (2018)
+  highlight: 1
+  data: Data are published on <a href="https://doi.pangaea.de/10.1594/PANGAEA.885935"> PANGAE</a>
+
+- title: Sentinel-1 InSAR measurements of surface elevation changes over yedoma uplands on Sobo-Sise Island, Lena Delta
+  image: dummy.png
+  description: ""
+  authors: Jie Chen, Frank Günther, Guido Grosse, Lin Liu, Hui Lin
+  link:
+    url: http://www.mdpi.com/2072-4292/10/7/1152
+    display:  Remote Sensing (2018)
+  highlight: 0
+
+- title: "Permafrost stores a globally significant amount of mercury"
+  image: pf_mercury.jpg
+  description: The amount of natural mercury stored in permafrost is twice as much as the rest of all soils, the atmosphere, and ocean combined.
+  authors: Paul Schuster, K. Schaefer, G. Aiken, R. Antweiler, J. Dewild, J. Gryziec, A. Gusmeroli, G. Hugelius, E. Jafarov, D. Krabbenhoft, L. Liu, N. Herman-Mercer, C. Mu, D. Roth, T. Schaefer, R. Striegl, K. Wickland, T. Zhang
+  link:
+    url: https://doi.org/10.1002/2017GL075571 
+    display:  Geophysical Research Letters (2018)
+  highlight: 1
+  news1: In the top 5% of all research outputs scored by <a href="https://www.altmetric.com/details/32698388" > Altmetric </a>
+  news2: Highlighted by <a href="https://news.agu.org/press-release/scientists-find-massive-reserves-of-mercury-hidden-in-permafrost" > AGU </a>
+
+- title: "Surface deformation monitoring in the permafrost regions over Tibetan Plateau using Sentinel-1 data"
+  image: dummy.png
+  description: ""
+  authors: Zhenming Wu, Lin Zhao, Lin Liu, Rui Zhu, Zeshen Gao, Yongping Qiao, Liming Tian, Huayun Zhou, Meizhen Xie
+  link:
+    url: www.scar.ac.cn/fulltext/2018/2/20180203.htm
+    display: Sciences in Cold and Arid Regions (2018)
+  highlight: 0
+
+- title: "Estimating active layer thickness and volumetric water content from ground penetrating radar measurements in Barrow, Alaska"
+  image: dummy.png
+  description: ""
+  authors: Elchin Jafarov, Andrew Parsekian, Kevin Schaefer, Lin Liu, Albert Chen, Santosh Panda, Tingjun Zhang
+  link:
+    url: https://doi.org/10.1002/gdj3.49
+    display:  Geoscience Data Journal (2018)
+  highlight: 0
+  news2: 
+
+- title: Transient variations in glacial mass near Upernavik Isstrøm (west Greenland) detected by the combined use of GPS and GRACE data
+  image: dummy.jpg
+  description:
+  authors: Bao Zhang, Lin Liu, Shfaqat Abbas Khan, Tonie van Dam, Enze Zhang, Yibin Yao 
+  link:
+    url: https://doi.org/10.1002/2017JB014529
+    display: Journal of Geophysical Research - Solid Earth (2017)
+  highlight: 0
+  
+- title: Annual variations in GPS-measured vertical displacements near Upernavik Isstrøm (Greenland) and contributions from surface mass loading
+  image: dummy.png
+  description:
+  authors:
+    Lin Liu, Shfaqat Abbas Khan, Tonie van Dam, Joseph Ho Yin Ma, Michael Bevis
+  link:
+    url: https://doi.org/10.1002/2016JB013494 
+    display: Journal of Geophysical Research - Solid Earth (2017)
+  highlight: 0
+
+- title: Mapping and inventorying active rock glaciers in the northern Tien Shan of China using satellite SAR interferometry
+  image: dummy.jpg
+  description:
+  authors:
+   Xiaowen Wang, Lin Liu, Lin Zhao, Tonghua Wu, Zhongqin Li, Guoxiang Liu
+  link:
+    url: https://www.the-cryosphere.net/11/997/2017/tc-11-997-2017.html
+    display: The Cryosphere (2017)
+  highlight: 0
+
+- title: Field evidence and InSAR detection of thermokarst after a tundra wildfire, using ALOS-PALSAR
+  image: dummy.png
+  description:
+  authors:
+    Go Iwahana, Masao Uchida, Lin Liu, Wenyu Gong, Franz Meyer, Richard Guritz, Tsutomu Yamanokuchi, Larry Hinzman 
+  link:
+    url: http://www.mdpi.com/2072-4292/8/3/218
+    display: Remote Sensing (2016)
+  highlight: 0
+
+- title: Ground-penetrating radar-derived measurements of active-layer thickness on the landscape scale with sparse calibration at Toolik and Happy Valley, Alaska
+  image: dummy.png
+  description: ""
+  authors:
+    Albert Chen, Andrew D. Parsekian, Kevin Schaefer, Elchin Jafarov, Santosh Panda, Lin Liu, Tingjun Zhang, Howard Zebker
+  link:
+    url: https://doi.org/10.1190/geo2015-0124.1
+    display: Geophysics (2016)
+  highlight: 0
+  news2:
+
+- title: Remote sensing measurements of thermokarst subsidence Using InSAR
+  image: Pub_CeCoIn5.png
+  description:
+    ADD Description
+  authors:
+    Lin Liu,  Kevin Schaefer,  Albert Chen,  Alessio Gusmeroli,  Howard Zebker,  Tingjun Zhang
+  link:
+    url: https://doi.org/10.1002/2015JF003599 
+    display:  Journal of Geophysical Research - Earth Surface (2015) 
+  highlight: 0
+  news2: 
+
+- title: Recent Arctic tundra fire initiates widespread thermokarst development
+  image: Pub_327.png
+  description:
+    ADD description
+  authors:
+    Benjamin Jones, Guido Grosse, Christopher Arp, Eric Miller, Lin Liu, Daniel Hayes, Christopher Larsen
+  link:
+    url: https://www.nature.com/articles/srep15865
+    display:  Scientific Reports (2015) 
+  highlight: 0
+  news: 
+
+- title: Remotely Sensed Active Layer Thickness (ReSALT) at Barrow, Alaska Using Interferometric Synthetic Aperture Radar
+  image: dummy.png
+  description:
+  authors:
+    Kevin Schaefer, Lin Liu, Andrew Parsekian, Elchin Jafarov, Albert Chen, Tingjun Zhang, Alessio Gusmeroli, Santosh Panda, Howard Zebker, Tim Schaefer
+  highlight: 0    
+  link:
+    url: http://www.mdpi.com/2072-4292/7/4/3735
+    display: Remote Sensing (2015)
+
+- title: Active layer stratigraphy and organic layer thickness at a thermokarst site in Arctic Alaska identified using Ground Penetrating Radar
+  image: dummy.png
+  description:
+  authors:
+   Alessio Gusmeroli, Lin Liu, Kevin Schaefer, Tingjun Zhang, Timothy Schaefer,  Guido Grosse 
+  link:
+    url: https://doi.org/10.1657/AAAR00C-13-301
+    display:  Arctic, Antarctic, and Alpine Research (2015)
+  highlight: 0
+
+- title: InSAR detects increase in surface subsidence caused by an Arctic tundra fire
+  image: fire_sub.png
+  description: "ADD Description"
+  authors: Lin Liu,  Elchin Jafarov,  Kevin Schaefer,  Benjamin Jones,  Howard Zebker, Christopher Williams,  John Rogan,  Tingjun Zhang
+  link:
+    url: https://doi.org/10.1002/2014GL060533
+    display:  Geophysical Research Letters (2014)
+  highlight: 1
+
+- title: Seasonal thaw settlement at drained thermokarst lake basins, Arctic Alaska
+  image: dummy.png
+  description:
+  authors:
+    Lin Liu, Kevin Schaefer, Alessio Gusmeroli, Guido Grosse, Benjamin Jones, Tingjun Zhang, Andrew Parsekian, Howard Zebker
+  link:
+    url: https://doi.org/10.5194/tc-8-815-2014
+    display: The Cryosphere (2014) 
+  highlight: 0
+
+- title: Sustained mass loss of the Northeast Greenland ice sheet triggered by regional warming
+  image: abbas_nclim.jpg
+  description: "ADD DESCRIPTION"
+  authors: Shfaqat A. Khan, Kurt Kjær, Michael Bevis, Jonathan Bamber, John Wahr, Kristian Kjeldsen, Anders Bjørk, Niels Korsgaard, Leigh Stearns, Michiel R. van den Broeke, Lin Liu, Nicolaj Larsen, Ioana  Muresan
+  link:
+    url: https://www.nature.com/articles/nclimate2161
+    display: Nature Climate Change (2014)
+  highlight: 1
+  news1: 
+
+- title: Carbon and geochemical properties of cryosols on the North Slope of Alaska
+  image: dummy.png
+  description:
+  authors:
+    Cuicui Mu, Tingjun Zhang, Paul F. Schuster, Kevin Schaefer, Kimberly P. Wickland, Deborah A. Repert, Lin Liu, Tim Schaefer, Guodong Cheng
+  link:
+    url: https://doi.org/10.1016/j.coldregions.2014.01.001
+    display: Cold Regions Science and Technology (2014)
+  highlight: 0
+
+- title: "Surface motion of active rock glaciers in the Sierra Nevada, California, USA: inventory and a case study using InSAR"
+  image: dummy.png
+  description:
+  authors: Lin Liu, Constance Millar, Robert Westfall, Howard Zebker
+  link:
+    url: https://www.the-cryosphere.net/7/1109/2013/
+    display: The Cryosphere (2013)
+  highlight: 0
+
+- title: Detecting unfrozen sediments below thermokarst lakes with Surface Nuclear Magnetic Resonance
+  image: dummy.png
+  description:
+  authors: Andrew Parsekian, Guido Grosse, Jan  Walbrecker, Mike Müller‐Petke, Kristina Keating, Lin Liu, Benjamin Jones, Rosemary Knight
+  link:
+    url: https://doi.org/10.1002/grl.50137 
+    display: Geophysical Research Letters (2013)
+  highlight: 0
+
+- title: The use of GPS horizontals for loading studies, with applications to northern California and southeast Greenland
+  image: dummy.png
+  description:
+  authors: John Wahr, Shfaqat A. Khan, Tonie van Dam, Lin Liu, Jan van Angelen, Michiel van den Broeke, Charles Meertens
+  link:
+    url: https://doi.org/10.1002/jgrb.50104 
+    display: "Journal of Geophysical Research: Solid Earth (2013)"
+  highlight: 0
+
+- title: Vertical and horizontal surface displacements near Jakobshavn Isbræ driven by melt-induced and dynamic ice loss
+  image: dummy.png
+  description:
+  authors: Karina Nielsen, Shfaqat A. Khan, Giorgio Spada, John Wahr, Michael Bevis, Lin Liu, Tonie van Dam
+  link:
+    url: https://doi.org/10.1002/jgrb.50145 
+    display: "Journal of Geophysical Research: Solid Earth (2013)"
+  highlight: 0
+
+- title: Constraining ice mass loss from Jakobshavn Isbræ (Greenland) using InSAR-measured crustal uplift
+  image: dummy.png
+  description:
+  authors: Lin Liu, John Wahr, Ian Howat, Shfaqat Abbas Khan, Ian Joughin, Masato Furuya
+  link:
+    url: https://doi.org/10.1111/j.1365-246X.2011.05317.x
+    display: Geophysical Journal International (2012)
+  highlight: 0
+
+- title: Estimating 1992–2000 average active layer thickness on the Alaskan North Slope from remotely sensed surface subsidence
+  image: dummy.png
+  description:
+  authors: Lin Liu, Kevin Schaefer, Tingjun Zhang, John Wahr
+  link:
+    url: https://doi.org/10.1029/2011JF002041 
+    display: "Journal of Geophysical Research: Earth Surface (2012)"
+  highlight: 0
+
+- title: InSAR measurements of surface deformation over permafrost on the North Slope of Alaska
+  image: dummy.png
+  description:
+  authors: Lin Liu, Tingjun Zhang, John Wahr
+  link:
+    url: https://doi.org/10.1029/2009JF001547 
+    display: "Journal of Geophysical Research: Earth Surface (2010)"
+  highlight: 0
+
+- title: GPS measurements of crustal uplift near Jakobshavn Isbræ due to glacial ice mass loss
+  image: dummy.png
+  description:
+  authors: Shfaqat Abbas Khan, Lin Liu, John Wahr, Ian Howat, Ian Joughin, Tonie van Dam, Kevin Fleming
+  link:
+    url: https://doi.org/10.1029/2010JB007490 
+    display: "Journal of Geophysical Research: Solid Earth (2010)"
+  highlight: 0
