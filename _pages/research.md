@@ -55,9 +55,9 @@ This research is funded by the Hong Kong Research Grants Council.
 **Terminus variations of Greenland glaciers**
 
 Enze Zhang, PhD student
-Enze’s research focuses on terminus variations of glaciers in Greenland, quantifying such variations in a high temporal resolution and understanding their controlling factors. Based on deep learning, he develops a method to extract the calving front automatically using multi-sensor remote sensing imagery (TerraSAR-X, Sentinel1, Landsat). He also analyzes the controlling factors of the calving front variations by combining other data such as glacier velocity and bed elevation.
+
+Enze’s research focuses on terminus variations of glaciers in Greenland, quantifying such variations in a high temporal resolution and understanding their controlling factors. Based on deep learning, he develops a method to extract the calving front automatically using multi-sensor remote sensing imagery (TerraSAR-X, Sentinel-1, Landsat). He also analyzes the controlling factors of the calving front variations by combining other data such as glacier velocity and bed elevation.
 
 ## Past projects
 Project B
 ![]({{ site.url }}{{ site.baseurl }}/images/research/greenland.jpg){: style="width: 300px; float: right; border: 10px"}
-
