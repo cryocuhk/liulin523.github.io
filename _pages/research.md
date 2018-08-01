@@ -43,6 +43,11 @@ Jiahua Zhang, PhD student
 
 Jiahua is working on using the GNSS Interferometric Reflectometry (GNSS-IR) to measure and quantify the changes of ground surface physical properties, such as surface elevation, snow depth, and surface soil moisture, in permafrost terrain, to understand the dynamics of the active layer and the uppermost permafrost, the interactions between them and the atmosphere, and their response to the climate variations.
 
+![]({{ site.url }}{{ site.baseurl }}/images/research/jiahua_gnss_ir.jpg){: style="width: 560px"}
+
+Left: Schematic illustration of GNSS-IR (modified from Larson, 2016), showing the multipath geometry for a horizontal planar and the interference pattern between the direct and reflected signals. H_ant and H_surf represent the height of the antenna and reflecting surface respectively. H_R is the vertical distance between H_ant and H_surf, which is one of the measurements of GNSS-IR. Decrease (increase) of H_R indicates the uplift (subsidence) of the reflecting surface.
+Right: The conceptual model of the seasonal vertical deformation (subsidence in summer and uplift in winter) of the ground surface in permafrost terrain. Such vertical deformation is mainly caused by the phase change of soil moisture within the active layer. GNSS-IR is capable of measuring the surface elevation changes at daily intervals continuously.
+
 This research is funded by the Hong Kong Research Grants Council.
 
 
