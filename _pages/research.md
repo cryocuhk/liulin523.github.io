@@ -33,7 +33,7 @@ Lingcao's research focuses on the distribution of thermokarst landforms, includi
 
 ![]({{ site.url }}{{ site.baseurl }}/images/research/lingcao_thermokarst.png){: style="width: 560px"}
 
-Left: Ground photo of a thaw slump in Beiluhe, Tibet; Right: Planet Cubesat image (© 2018 Planet Labs Inc.). The yellow line outline the thaw slump, and the red arrow indicates the position and looking direction of the ground photo.
+Left: Ground photo of a thaw slump in Beiluhe, Tibet; Right: Planet Cubesat image © 2018 Planet Labs Inc. The yellow line outline the thaw slump, and the red arrow indicates the position and looking direction of the ground photo.
 
 This research is funded by the Hong Kong Research Grants Council (Project CUHK14300815).
 
@@ -58,6 +58,6 @@ Enze Zhang, PhD student
 
 Enze’s research focuses on terminus variations of glaciers in Greenland, quantifying such variations in a high temporal resolution and understanding their controlling factors. Based on deep learning, he develops a method to extract the calving front automatically using multi-sensor remote sensing imagery (TerraSAR-X, Sentinel-1, Landsat). He also analyzes the controlling factors of the calving front variations by combining other data such as glacier velocity and bed elevation.
 
-## Past projects
-Project B
-![]({{ site.url }}{{ site.baseurl }}/images/research/greenland.jpg){: style="width: 300px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/research/enze_ji.png){: style="width: 560px"}
+TerraSAR-X image over Jakobshaven Isbræ. The red line indicates the calving front position, delinated using a Deep Learning method. 
+
