@@ -53,13 +53,15 @@
   interest1: 
 
 - name: Enze Zhang
-  photo: Doraemon.png
+  photo: enze.jpg
   info: PhD student
   email: zhangenze@link.cuhk.edu.hk
   number_educ: 1
   education1: BSc in Geophysics, University of Science and Technology of China
-  number_intr: 1
-  interest1: 
+  number_intr: 3
+  interest1: Terminus variations of glaciers in Greenland 
+  interest2: Automatic extracting calving front based on Deep Learning
+  interest3: Glacier dynamics
   
 - name: Jiahua Zhang
   photo: jiahua.jpg

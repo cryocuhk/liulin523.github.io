@@ -33,7 +33,7 @@ Lingcao's research focuses on the distribution of thermokarst landforms, includi
 
 ![]({{ site.url }}{{ site.baseurl }}/images/research/lingcao_thermokarst.png){: style="width: 560px"}
 
-Left: Ground photo of a thaw slump in Beiluhe, Tibet; Right: Planet Cubesat image, on which, the yellow line outline the thaw slump, and the red arrow indicates the position and looking direction of the ground photo.
+Left: Ground photo of a thaw slump in Beiluhe, Tibet; Right: Planet Cubesat image (© 2018 Planet Labs Inc.). The yellow line outline the thaw slump, and the red arrow indicates the position and looking direction of the ground photo.
 
 This research is funded by the Hong Kong Research Grants Council (Project CUHK14300815).
 
@@ -43,7 +43,14 @@ Jiahua Zhang, PhD student
 
 Jiahua is working on using the GNSS Interferometric Reflectometry (GNSS-IR) to measure and quantify the changes of ground surface physical properties, such as surface elevation, snow depth, and surface soil moisture, in permafrost terrain, to understand the dynamics of the active layer and the uppermost permafrost, the interactions between them and the atmosphere, and their response to the climate variations.
 
-This research is funded by the Hong Kong Research Grants Council (Project CUHK14300815).
+This research is funded by the Hong Kong Research Grants Council.
+
+
+
+**Terminus variations of Greenland glaciers**
+
+Enze Zhang, PhD student
+Enze’s research focuses on terminus variations of glaciers in Greenland, quantifying such variations in a high temporal resolution and understanding their controlling factors. Based on deep learning, he develops a method to extract the calving front automatically using multi-sensor remote sensing imagery (TerraSAR-X, Sentinel1, Landsat). He also analyzes the controlling factors of the calving front variations by combining other data such as glacier velocity and bed elevation.
 
 ## Past projects
 Project B
