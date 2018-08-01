@@ -37,6 +37,14 @@ Left: Ground photo of a thaw slump in Beiluhe, Tibet; Right: Planet Cubesat imag
 
 This research is funded by the Hong Kong Research Grants Council (Project CUHK14300815).
 
+**GNSS Reflectometry and its applications in Cryosphere**
+
+Jiahua Zhang, PhD student
+
+Jiahua is working on using the GNSS Interferometric Reflectometry (GNSS-IR) to measure and quantify the changes of ground surface physical properties, such as surface elevation, snow depth, and surface soil moisture, in permafrost terrain, to understand the dynamics of the active layer and the uppermost permafrost, the interactions between them and the atmosphere, and their response to the climate variations.
+
+This research is funded by the Hong Kong Research Grants Council (Project CUHK14300815).
+
 ## Past projects
 Project B
 ![]({{ site.url }}{{ site.baseurl }}/images/research/greenland.jpg){: style="width: 300px; float: right; border: 10px"}
