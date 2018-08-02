@@ -8,9 +8,11 @@ permalink: /openings
 # Openings 
 
 ## PhD positions
-Our group takes one or two new PhD students every year. If you are interested in pursuing PhD degree in our group, please send me an [email](mailto:liulin@cuhk.edu.hk). State briefly why you are interested and attach a CV.
+Our group takes one or two new PhD students every year. Students in our group came from various educational backgrounds (geology, geomatics, math, physics, remote sensing, solid-earth geophysics, etc). Students with strong mathematics and physics background and programming skills are desirable. If you are interested in pursuing PhD degree in our group, please send an [email](mailto:liulin@cuhk.edu.hk). State what and why you are interested and attach a CV.
 
-Refer to our [postgraduate programme](http://www.cuhk.edu.hk/sci/essc/pg_prg.html) for more information and deadlines regarding PhD application.
+**For fall 2019:** we are looking for one student with geology/geophysics backgrounds to work on a research project on present-day tectonic and non-tectonic movements near the southern edge of the Qingtang block on the Tibet Plateau.
+
+Please refer to our [postgraduate programme webpage](http://www.cuhk.edu.hk/sci/essc/pg_prg.html) for [admission requirements](http://www.cuhk.edu.hk/sci/essc/pg_prg.html#require), [procedures](http://www.cuhk.edu.hk/sci/essc/pg_prg.html#procedure), and [deadlines](http://www.cuhk.edu.hk/sci/essc/pg_prg.html#period).
 
 You are highly suggested to apply for the prestigious **Hong Kong PhD Fellowship Scheme**. The application deadline is 1 December every year. Please refer to [this website](http://www.rgc.edu.hk/hkphd) for further details of the Scheme. 
 
