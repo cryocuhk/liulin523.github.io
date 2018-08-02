@@ -33,7 +33,7 @@ Lingcao's research focuses on the distribution of thermokarst landforms, includi
 
 ![]({{ site.url }}{{ site.baseurl }}/images/research/lingcao_thermokarst.png){: style="width: 560px"}
 
-Left: Ground photo of a thaw slump in Beiluhe, Tibet; Right: Planet Cubesat image © 2018 Planet Labs Inc. The yellow line outline the thaw slump, and the red arrow indicates the position and looking direction of the ground photo.
+Left: Ground photo of a thaw slump in Beiluhe, Tibet; Right: Planet CubeSat image © 2018 Planet Labs Inc. The yellow line outline the thaw slump, and the red arrow indicates the position and looking direction of the ground photo.
 
 This research is funded by the Hong Kong Research Grants Council (Project CUHK14300815).
 
@@ -45,7 +45,7 @@ Jiahua is working on using the GNSS Interferometric Reflectometry (GNSS-IR) to m
 
 ![]({{ site.url }}{{ site.baseurl }}/images/research/jiahua_gnss_ir.jpg){: style="width: 560px"}
 
-Left: Schematic illustration of GNSS-IR (modified from Larson, 2016), showing the multipath geometry for a horizontal planar and the interference pattern between the direct and reflected signals. H_ant and H_surf represent the height of the antenna and reflecting surface respectively. H_R is the vertical distance between H_ant and H_surf, which is one of the measurements of GNSS-IR. Decrease (increase) of H_R indicates the uplift (subsidence) of the reflecting surface.
+Left: Schematic illustration of GNSS-IR (modified from Larson, 2016), showing the multipath geometry for a horizontal planar and the interference pattern between the direct and reflected signals. H<sub>Ant</sub> and H<sub>surf</sub> represent the height of the antenna and reflecting surface respectively. H<sub>R</sub>,  the vertical distance between H<sub>Ant</sub> and H<sub>surf</sub>, is one of the key observables of GNSS-IR. Decrease (increase) of H<sub>R</sub> indicates the uplift (subsidence) of the reflecting surface.
 Right: The conceptual model of the seasonal vertical deformation (subsidence in summer and uplift in winter) of the ground surface in permafrost terrain. Such vertical deformation is mainly caused by the phase change of soil moisture within the active layer. GNSS-IR is capable of measuring the surface elevation changes at daily intervals continuously.
 
 This research is funded by the Hong Kong Research Grants Council.
