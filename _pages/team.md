@@ -57,7 +57,9 @@ permalink: /team/
   <h3>{{ member.name }}</h3>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <br>
+  {% if member.addcv == 1 %}
   <a href="{{ site.url }}{{ site.baseurl }}/assets/{{ member.cv }}"> CV </a>
+  {% endif %}
   <br>
   <br>
   <p class="mb-0"> Research interests:</p>

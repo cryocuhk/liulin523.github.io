@@ -16,6 +16,8 @@ Please refer to our [postgraduate programme webpage](http://www.cuhk.edu.hk/sci/
 
 You are highly suggested to apply for the prestigious **Hong Kong PhD Fellowship Scheme**. The application deadline is 1 December every year. Please refer to [this website](http://www.rgc.edu.hk/hkphd) for further details of the Scheme. 
 
+Every summer, we host a **workshop** inviting all potential applicants to our campus. The first batch of PhD offers are made shortly after the workshop. Application is open in Spring.  See this [webpage](http://www.cuhk.edu.hk/sci/essc/sw2018.html) for the one held recently. 
+
 
 ## Postdoc positions
 Currently unavailable
