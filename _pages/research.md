@@ -17,7 +17,7 @@ Yan is currently working on mapping permafrost landforms in western China, such 
 
 Watch this 1-min video to get a glimpse of her recent work:
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xL42_UPkvI0?rel=0&amp;start=5" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-Yan also presented this work at the 5th European Conference on Permafrost. See her [poster]({{ site.url }}{{ site.baseurl }}/images/assets/EUCOP5_poster_YanHU.pdf)
+Yan also presented this work at the 5th European Conference on Permafrost. See her [poster]({{ site.url }}{{ site.baseurl }}/assets/EUCOP5_poster_YanHU.pdf)
    
 Our collaborators include Professors Lin Zhao and Tonghua Wu (Chinese Academy of Sciences), Professor Tobias Bolch and Dr. Philipp Rastern (University of Zurich), and Dr. Xiaowen Wang (University of Tokyo).
 
@@ -25,6 +25,7 @@ This research is funded by the Hong Kong Research Grants Council (Project CUHK14
 
 Yan is supported by the [Hong Kong PhD Fellowship Scheme](http://www.rgc.edu.hk/hkphd).
 
+<p> &nbsp; </p>
 
 **Thermokarst landforms on the Tibetan Plateau**
 
@@ -37,6 +38,8 @@ Lingcao's research focuses on the distribution of thermokarst landforms, includi
 *Left: Ground photo of a thaw slump in Beiluhe, Tibet; Right: Planet CubeSat image © 2018 Planet Labs Inc. The yellow line outlines the thaw slump, and the red arrow indicates the position and looking direction of the ground photo.*
 
 This research is funded by the Hong Kong Research Grants Council (Project CUHK14300815).
+
+<p> &nbsp; </p>
 
 **GNSS Reflectometry and its applications in Cryosphere**
 
@@ -51,7 +54,7 @@ Right: The conceptual model of the seasonal vertical deformation (subsidence in 
 
 This research is funded by the Hong Kong Research Grants Council.
 
-
+<p> &nbsp; </p>
 
 **Terminus variations of Greenland glaciers**
 
@@ -62,4 +65,20 @@ Enze’s research focuses on terminus variations of glaciers in Greenland, quant
 ![]({{ site.url }}{{ site.baseurl }}/images/research/enze_ji.png){: style="width: 480px"}
 
 *TerraSAR-X image over Jakobshaven Isbræ. The red line indicates the calving front position, delinated using a Deep Learning method.* 
+
+<p> &nbsp; </p>
+
+**Greenland Ice Sheet mass balance**
+
+Jiangjun (JJ) Ran, Postdoc
+
+Jiangjun is currently investigating the Greenland ice sheet mass balance using the regional climate models (e.g., RACMO 2.3, MAR 3.9), and data from remote sensing technologies (e.g., satellite gravimetry, InSAR, and altimetry). More specifically, he is interested in deriving the mass variations of the Greenland ice sheet from GRACE in a statistically optimal way using the “mascon” (i.e., mass concentration) approach. Furthermore, he is also trying to understand the mass anomalies in the sub-surface processes of Greenland ice sheet (e.g., meltwater retention) at short-time scale.
+
+![]({{ site.url }}{{ site.baseurl }}/images/research/Greenland_DMT2.gif){: style="width: 480px"}
+
+*This animation shows the mass variations in Greenland and its neighboring areas, derived from GRACE, in terms of equivalent water height (EWH).*
+
+<p> &nbsp; </p>
+
+
 
