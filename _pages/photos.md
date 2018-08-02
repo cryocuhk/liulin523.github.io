@@ -6,13 +6,8 @@ permalink: /photos/
 ---
 
 # Field Pictures
-(Right-click *'view image'* to see a larger image.)
 ## Rock glaciers in the Alps, 2018
 By Yan Hu
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/field/yan_alps1.jpg" class="img-responsive" width="60%" style="float: left"> 
-</figure>
-
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="8000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
