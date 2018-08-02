@@ -45,14 +45,16 @@
   interest3: Induced seismicity
 
 - name: Jiangjun Ran
-  photo: Doraemon.png
+  photo: jiangjun.jpg
   info: Postdoc
   email: jiangjunran@gmail.com
   number_educ: 2
   education1: PhD in Physical Geodesy, Delft University of Technology
   education2: Master in Geodesy and Surveying Engineering, Chinese Academy of Sciences
-  number_intr: 1
-  interest1: 
+  number_intr: 3
+  interest1: Greenland ice sheet mass balance from satellite gravimetry, altimetry and regional climate models
+  interest2: Gravity filed modeling using data from satellite gravimetry
+  interest3: Orbit determination of satellites using GNSS
 
 - name: Enze Zhang
   photo: enze.jpg

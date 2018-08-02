@@ -74,7 +74,7 @@ Jiangjun (JJ) Ran, Postdoc
 
 Jiangjun is currently investigating the Greenland ice sheet mass balance using the regional climate models (e.g., RACMO 2.3, MAR 3.9), and data from remote sensing technologies (e.g., satellite gravimetry, InSAR, and altimetry). More specifically, he is interested in deriving the mass variations of the Greenland ice sheet from GRACE in a statistically optimal way using the “mascon” (i.e., mass concentration) approach. Furthermore, he is also trying to understand the mass anomalies in the sub-surface processes of Greenland ice sheet (e.g., meltwater retention) at short-time scale.
 
-![]({{ site.url }}{{ site.baseurl }}/images/research/Greenland_DMT2.gif){: style="width: 480px"}
+![]({{ site.url }}{{ site.baseurl }}/images/research/Greenland_DMT2.gif){: style="width: 600px"}
 
 *This animation shows the mass variations in Greenland and its neighboring areas, derived from GRACE, in terms of equivalent water height (EWH).*
 
