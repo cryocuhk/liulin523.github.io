@@ -8,7 +8,7 @@ permalink: /photos/
 # Field Pictures
 ## Rock glaciers in the Alps, 2018
 By Yan Hu
-<div class="col-sm-8 clearfix">
+<div class="col-sm-8">
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="8000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
