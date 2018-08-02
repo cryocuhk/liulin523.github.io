@@ -7,7 +7,11 @@ permalink: /photos/
 
 # Field Pictures
 (Right-click *'view image'* to see a larger image.)
-## Beiluhe, Tibet, 2018
+## Rock glaciers in the Alps, 2018
+By Yan Hu
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/field/yan_alps1.jpg" width="60%">
+</figure>
 
 ## Old photos
 {% assign number_printed = 0 %}

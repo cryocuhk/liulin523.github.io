@@ -57,6 +57,7 @@ permalink: /team/
   <h3>{{ member.name }}</h3>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <br>
+  <a href="{{ site.url }}{{ site.baseurl }}/assets/{{ member.cv }}"> CV </a>
   <br>
   <br>
   <p class="mb-0"> Research interests:</p>
