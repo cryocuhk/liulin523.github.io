@@ -39,6 +39,48 @@ By Yan Hu
   </a>
 </div>
 
+
+## Field Photos on the Tibetan Plateau, 2017-2018
+By Lingcao Huang
+<div markdown="0" id="carousel_lingcao" class="carousel slide" data-ride="carousel" data-interval="8000" data-pause="hover" >
+    <!-- Menu -->
+    <ol class="carousel-indicators">
+        <li data-target="#carousel_lingcao" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel_lingcao" data-slide-to="1"></li>
+        <li data-target="#carousel_lingcao" data-slide-to="2"></li>
+        <li data-target="#carousel_lingcao" data-slide-to="3"></li>
+        <li data-target="#carousel_lingcao" data-slide-to="4"></li>
+    </ol>
+
+    <!-- Items -->
+    <div class="carousel-inner" markdown="0">
+
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/field/lingcao_thaw_slump2_beiluhe.jpg" alt="Slide 1" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/field/lingcao_thaw_slump1_beiluhe.jpg" alt="Slide 2" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/field/lingcao_thermal_erosion_gully_eboling.jpg" alt="Slide 3" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/field/lingcao_sinkhole_eobling.jpg" alt="Slide 4" />
+        </div>
+         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/field/lingcao_Hummocks2_maxianshan.jpg" alt="Slide 5" />
+        </div>
+    </div>
+  <a class="left carousel-control" href="#carousel_lingcao" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel_lingcao" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
 ## Old photos
 (Right-click *'view image'* to see a larger image)
 {% assign number_printed = 0 %}
