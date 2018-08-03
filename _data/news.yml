@@ -1,9 +1,6 @@
 - date: August 7 2018
   headline: "Welcome to all EASC summer workshop attendees!"
 
-- date: August 5 2018
-  headline: "Website is launched! (softly)"
-
 - date: July 19 2018
   headline: "Enze passed PhD qualifying exam. Congratulations!"
 
@@ -14,5 +11,4 @@
   headline: "Yan won Best Poster Award at the Dragon 4 Mid-Term Results Symposium, Xi'An."
 
 - date: June 12 2018
-  headline: "<a href='https://doi.org/ 10.1029/2018GL077960'> New paper</a> published on GRL! We obsereved seasonal elevation changes in a permafrost area using GPS-IR and developed a very simple model to explain them."
-
+  headline: "<a href='https://doi.org/10.1029/2018GL077960'> New paper</a> published on GRL! We obsereved seasonal elevation changes in a permafrost area using GPS-IR and developed a very simple model to explain them."
