@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Lin Liu's Lab @ CUHK."
+excerpt: "Cryosphere Lab @ CUHK."
 sitemap: false
 permalink: /allnews.html
 ---

@@ -152,7 +152,7 @@
 
 - title: InSAR detects increase in surface subsidence caused by an Arctic tundra fire
   image: fire_sub.png
-  description: "ADD Description"
+  description: "Wildfires promoted permafrost degradation and ground subsidence, as revealed by InSAR observations from space."
   authors: Lin Liu,  Elchin Jafarov,  Kevin Schaefer,  Benjamin Jones,  Howard Zebker, Christopher Williams,  John Rogan,  Tingjun Zhang
   link:
     url: https://doi.org/10.1002/2014GL060533
@@ -171,7 +171,7 @@
 
 - title: Sustained mass loss of the Northeast Greenland ice sheet triggered by regional warming
   image: abbas_nclim.jpg
-  description: "ADD DESCRIPTION"
+  description: "We discovered that the last remaining stable portion of the Greenland ice sheet was stable no more."
   authors: Shfaqat A. Khan, Kurt Kjær, Michael Bevis, Jonathan Bamber, John Wahr, Kristian Kjeldsen, Anders Bjørk, Niels Korsgaard, Leigh Stearns, Michiel R. van den Broeke, Lin Liu, Nicolaj Larsen, Ioana  Muresan
   link:
     url: https://www.nature.com/articles/nclimate2161

@@ -1,4 +1,4 @@
-# Liu Lab Website
+# CUHK Cryosphere Lab Website
 
 This is the website of our research group at The Chinese University of Hong Kong.
 
