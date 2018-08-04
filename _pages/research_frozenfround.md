@@ -32,7 +32,7 @@ Lingcao Huang, PhD student
 
 Lingcao's research focuses on the distribution of thermokarst landforms, including thaw slumps (the figure below) and thermal erosion gullies, on the Tibetan Plateau and the factors affecting them. In many permafrost areas, warming and thawing of ground result in distinct thermokarst landforms in remote and isolated regions. He applies image processing methods, including deep learning algorithm, to multi-source remote sensing data, aiming to map these landforms automatically. He also analyzes the spatial-temporal changes of the mapped landforms and investigates the driving factors of their evolution by integrating other data such as digital elevation model and meteorological data.
 
-![]({{ site.url }}{{ site.baseurl }}/images/research/lingcao_thermokarst.png){: style="width: 560px"}
+![]({{ site.url }}{{ site.baseurl }}/images/research/lingcao_thermokarst.png){: style="width: 600px"}
 
 *Left: Ground photo of a thaw slump in Beiluhe, Tibet; Right: Planet CubeSat image © 2018 Planet Labs Inc. The yellow line outlines the thaw slump, and the red arrow indicates the position and looking direction of the ground photo.*
 
@@ -46,7 +46,7 @@ Jiahua Zhang, PhD student
 
 Jiahua is working on using the GNSS Interferometric Reflectometry (GNSS-IR) to measure and quantify the changes of ground surface physical properties, such as surface elevation, snow depth, and surface soil moisture, in permafrost terrain, to understand the dynamics of the active layer and the uppermost permafrost, the interactions between them and the atmosphere, and their response to the climate variations.
 
-![]({{ site.url }}{{ site.baseurl }}/images/research/jiahua_gnss_ir.jpg){: style="width: 560px"}
+![]({{ site.url }}{{ site.baseurl }}/images/research/jiahua_gnss_ir.jpg){: style="width: 600px"}
 
 *Left: Schematic illustration of GNSS-IR (modified from Larson, 2016), showing the multipath geometry for a horizontal planar and the interference pattern between the direct and reflected signals. H<sub>Ant</sub> and H<sub>surf</sub> represent the height of the antenna and reflecting surface respectively. H<sub>R</sub>,  the vertical distance between H<sub>Ant</sub> and H<sub>surf</sub>, is one of the key observables of GNSS-IR. Decrease (increase) of H<sub>R</sub> indicates the uplift (subsidence) of the reflecting surface.
 Right: The conceptual model of the seasonal vertical deformation (subsidence in summer and uplift in winter) of the ground surface in permafrost terrain. Such vertical deformation is mainly caused by the phase change of soil moisture within the active layer. GNSS-IR is capable of measuring the surface elevation changes at daily intervals continuously.*
