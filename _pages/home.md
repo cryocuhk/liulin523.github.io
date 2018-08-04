@@ -44,6 +44,6 @@ As part of the [Earth System Science programme](http://www.cuhk.edu.hk/sci/essc/
 </div>
 
 
-We use a wide range of methods, including geophysics, geodesy, and remote sensing. We adopt new tools, develop new algorithms, make new observations to quantify the dynamics of the cryospheric systems (see our research on [the Greenland Ice Sheet and glaciers](research_greenland) and [frozen ground](research_frozenground)).
+We use a wide range of methods, including geophysics, geodesy, and remote sensing. We adopt new tools, develop new algorithms, make new observations to quantify the dynamics of the cryospheric systems (see our current research on [the Greenland Ice Sheet and glaciers](research_greenland) and [frozen ground](research_frozenground)).
 
 **We are looking for new PhD students to join the team** [(see Openings)]({{ site.url }}{{ site.baseurl }}/openings) **!**

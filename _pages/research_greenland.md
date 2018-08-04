@@ -7,7 +7,7 @@ permalink: /research_greenland
 ---
 # Research on Greenland
 
-**Terminus variations of Greenland glaciers**
+## Terminus variations of Greenland glaciers
 
 Enze Zhang, PhD student
 
@@ -19,7 +19,7 @@ Enze’s research focuses on terminus variations of glaciers in Greenland, quant
 
 <p> &nbsp; </p>
 
-**Greenland Ice Sheet mass balance**
+## Greenland Ice Sheet mass balance
 
 Jiangjun (JJ) Ran, Postdoc
 

@@ -8,7 +8,7 @@ permalink: /research_frozenground/
 
 # Research on Frozen Ground
 
-**Kinematics and Dynamics of Periglacial Landforms in China**
+## Kinematics and yynamics of periglacial landforms in western China
 
 Yan Hu, PhD student
 
@@ -26,7 +26,7 @@ Yan is supported by the [Hong Kong PhD Fellowship Scheme](http://www.rgc.edu.hk/
 
 <p> &nbsp; </p>
 
-**Thermokarst landforms on the Tibetan Plateau**
+## Thermokarst landforms on the Tibetan Plateau
 
 Lingcao Huang, PhD student
 
@@ -40,7 +40,7 @@ This research is funded by the Hong Kong Research Grants Council (Project CUHK14
 
 <p> &nbsp; </p>
 
-**GNSS Reflectometry and its applications in Cryosphere**
+## GNSS Reflectometry and its applications in Cryosphere
 
 Jiahua Zhang, PhD student
 
