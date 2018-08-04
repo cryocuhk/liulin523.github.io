@@ -3,7 +3,7 @@ title: "Cryosphere Lab - Research"
 layout: textlay
 excerpt: "Cryosphere Lab -- Research -- Greenland"
 sitemap: false
-permalink: /greenland/
+permalink: /research_greenland/
 ---
 # Research on Greenland
 
