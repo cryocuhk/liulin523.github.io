@@ -1,5 +1,5 @@
 ---
-title: "Cryosphere Lab - Research"
+title: "Cryosphere Lab - Research - Greenland"
 layout: textlay
 excerpt: "Cryosphere Lab -- Research -- Greenland"
 sitemap: false
