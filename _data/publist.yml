@@ -1,7 +1,7 @@
 - title: "GPS Interferometric Reflectometry reveals cyclic elevation changes in thaw and freezing seasons in a permafrost area (Barrow, Alaska)"
   image: pf_mercury.jpg
   description: ""
-  authors: Yufeng Hu, Lin Liu, Kristine Larson, Kevin Schaefer, Jiahua Zhang, and Yibin Yao
+  authors: Yufeng Hu, Lin Liu, Kristine Larson, Kevin Schaefer, Jiahua Zhang, Yibin Yao
   link:
     url: https://doi.org/10.1029/2018GL077960
     display:  Geophysical Research Letters (2018)
@@ -9,7 +9,7 @@
 
 - title: "Decadal changes of surface elevation over permafrost area estimated using reflected GPS signals"
   image: gps_ir_diagram.jpg
-  description: We use a new type of observations, GPS signals reflected from ground surface, to retrieve a decadal long time series at daily intervals of elevation changes over permafrost area.
+  description: A new type of observations can tell elevation changes in permafrost areas over decades and at daily intervals.
   authors: Lin Liu, Kristine M. Larson
   link:
     url: https://www.the-cryosphere.net/12/477/2018/
