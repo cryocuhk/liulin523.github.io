@@ -9,13 +9,14 @@
 
 - title: "Decadal changes of surface elevation over permafrost area estimated using reflected GPS signals"
   image: gps_ir_diagram.jpg
-  description: We use a new type of observations, GPS signals reflected from ground surface, to retrieve a decadal long time series of elevation changes over permafrost area.
+  description: We use a new type of observations, GPS signals reflected from ground surface, to retrieve a decadal long time series at daily intervals of elevation changes over permafrost area.
   authors: Lin Liu, Kristine M. Larson
   link:
     url: https://www.the-cryosphere.net/12/477/2018/
     display:  The Cryosphere (2018)
   highlight: 1
-  data: Data are published on <a href="https://doi.pangaea.de/10.1594/PANGAEA.885935"> PANGAE</a>
+  incdata: 1
+  datarul: https://doi.pangaea.de/10.1594/PANGAEA.885935
 
 - title: Sentinel-1 InSAR measurements of surface elevation changes over yedoma uplands on Sobo-Sise Island, Lena Delta
   image: dummy.png
@@ -35,7 +36,7 @@
     display:  Geophysical Research Letters (2018)
   highlight: 1
   news1: In the top 5% of all research outputs scored by <a href="https://www.altmetric.com/details/32698388" > Altmetric </a>
-  news2: Highlighted by <a href="https://news.agu.org/press-release/scientists-find-massive-reserves-of-mercury-hidden-in-permafrost" > AGU </a>
+  news2: AGU <a href="https://news.agu.org/press-release/scientists-find-massive-reserves-of-mercury-hidden-in-permafrost" > Highlight Article </a>
 
 - title: "Surface deformation monitoring in the permafrost regions over Tibetan Plateau using Sentinel-1 data"
   image: dummy.png
