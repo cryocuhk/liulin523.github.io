@@ -55,7 +55,8 @@
     url: https://doi.org/10.1002/gdj3.49
     display:  Geoscience Data Journal (2018)
   highlight: 0
-  news2: 
+  incdata: 1
+  dataurl: http://dx.doi.org/10.3334/ORNLDAAC/1355
 
 - title: Transient variations in glacial mass near Upernavik Isstrøm (west Greenland) detected by the combined use of GPS and GRACE data
   image: dummy.jpg
@@ -65,6 +66,8 @@
     url: https://doi.org/10.1002/2017JB014529
     display: Journal of Geophysical Research - Solid Earth (2017)
   highlight: 0
+  incdata: 1
+  dataurl: https://doi.org/10.1594/PANGAEA.880159
   
 - title: Annual variations in GPS-measured vertical displacements near Upernavik Isstrøm (Greenland) and contributions from surface mass loading
   image: dummy.png
@@ -85,6 +88,8 @@
     url: https://www.the-cryosphere.net/11/997/2017/tc-11-997-2017.html
     display: The Cryosphere (2017)
   highlight: 0
+  incdata: 1
+  dataurl: https://doi.pangaea.de/10.1594/PANGAEA.874616
 
 - title: Field evidence and InSAR detection of thermokarst after a tundra wildfire, using ALOS-PALSAR
   image: dummy.png
@@ -105,10 +110,11 @@
     url: https://doi.org/10.1190/geo2015-0124.1
     display: Geophysics (2016)
   highlight: 0
-  news2:
+  incdata: 1
+  dataurl: http://dx.doi.org/10.3334/ORNLDAAC/1265
 
 - title: Remote sensing measurements of thermokarst subsidence Using InSAR
-  image: Pub_CeCoIn5.png
+  image: dummy.png
   description:
     ADD Description
   authors:
@@ -120,7 +126,7 @@
   news2: 
 
 - title: Recent Arctic tundra fire initiates widespread thermokarst development
-  image: Pub_327.png
+  image: dummy.png
   description:
     ADD description
   authors:
@@ -140,6 +146,8 @@
   link:
     url: http://www.mdpi.com/2072-4292/7/4/3735
     display: Remote Sensing (2015)
+  incdata: 1  
+  dataurl: http://dx.doi.org/10.3334/ORNLDAAC/1266
 
 - title: Active layer stratigraphy and organic layer thickness at a thermokarst site in Arctic Alaska identified using Ground Penetrating Radar
   image: dummy.png
@@ -243,6 +251,8 @@
     url: https://doi.org/10.1029/2011JF002041 
     display: "Journal of Geophysical Research: Earth Surface (2012)"
   highlight: 0
+  incdata: 1
+  dataurl: http://dx.doi.org/10.3334/ORNLDAAC/1267
 
 - title: InSAR measurements of surface deformation over permafrost on the North Slope of Alaska
   image: dummy.png
