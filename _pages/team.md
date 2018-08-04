@@ -55,10 +55,7 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/people/{{ member.photo }}" class="img-responsive" width="24%" style="float: left" />
   <h3>{{ member.name }}</h3>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
-  {% if member.addcv == 1 %}
-  <a href="{{ site.url }}{{ site.baseurl }}/assets/{{ member.cv }}"> CV </a>
-  {% endif %}
+  <i>{{ member.info }}<br>email: <{{ member.email }}></i> {% if member.addcv == 1 %} <a href="{{ site.url }}{{ site.baseurl }}/assets/{{ member.cv }}"> CV </a> {% endif %}
   <br>
   <p class="mb-0"> Research interests:</p>
   <ul style="overflow: hidden" padding-left="0em" margin-top="-10px">
