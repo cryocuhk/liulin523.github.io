@@ -60,6 +60,7 @@ For a full list see [below](#list-of-publications) or go to [Google Scholar](htt
   {% if publi.incdata == 1 %}
   <a href="{{ publi.dataurl }}">Data</a>
   {% endif %}
+  <p> &nbsp; </p>
 
 {% endfor %}
 
