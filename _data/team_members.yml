@@ -54,7 +54,7 @@
   number_intr: 3
   interest1: Greenland ice sheet mass balance from satellite gravimetry, altimetry and regional climate models
   interest2: Gravity filed modeling using data from satellite gravimetry
-  interest3: Orbit determination of satellites using GNSS
+  interest3: Satellite orbit determination 
 
 - name: Enze Zhang
   photo: enze.jpg
