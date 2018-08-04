@@ -16,7 +16,7 @@
     display:  The Cryosphere (2018)
   highlight: 1
   incdata: 1
-  datarul: https://doi.pangaea.de/10.1594/PANGAEA.885935
+  dataurl: https://doi.pangaea.de/10.1594/PANGAEA.885935
 
 - title: Sentinel-1 InSAR measurements of surface elevation changes over yedoma uplands on Sobo-Sise Island, Lena Delta
   image: dummy.png

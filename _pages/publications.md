@@ -54,13 +54,9 @@ For a full list see [below](#list-of-publications) or go to [Google Scholar](htt
 ## List of Publications
 
 {% for publi in site.data.publist %}
-
   **{{ publi.title }}** <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-  {% if publi.incdata == 1 %}
-  <a href="{{ publi.dataurl }}">Data</a>
-  {% endif %}
+  {% if publi.incdata == 1 %} <a href="{{ publi.dataurl }}">Data</a> {% endif %}
   <p> &nbsp; </p>
-
 {% endfor %}
 
