@@ -1,5 +1,5 @@
 - date: August 7 2018
-  headline: "Welcome to all EASC summer workshop attendees!"
+  headline: "Welcome to all EASC summer workshop attendees! This is the <a href='{{ site.url }}{{ site.baseurl }}/assets/cryosphere_geophysics_summerworkshop2018.pdf'> presentation </a> I gave at the research seminar."
 
 - date: July 19 2018
   headline: "Enze passed PhD qualifying exam. Congratulations!"
