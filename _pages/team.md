@@ -111,12 +111,13 @@ Bo Hu, 2015, now at Guangdong University of Technology <br />
 
 **Research Assistants**<br />
 Kenneth Ho Ngai Lun, 2017-2018 <br />
-Xiaowen Wang, 2016-2017, now at University of Tokyo <br />
-Yufeng Hu, 2017-2018, now at Chang'an University <br />
+Xiaowen Wang, 2016-2017, now postdoc at University of Tokyo <br />
+Yufeng Hu, 2017-2018, now lecturer at Chang'an University <br />
 
 **Visiting Students**<br />
+Weifan Zhou, Visiting master student, 2018, now master student at Jilin University <br />
 Zhenming Wu, Visiting master student, 2017, now PhD student at Reading University <br />
 Jiahui Wang, Visiting undergraduate student, 2017, now PhD student at Southern Methodist University <br />
 Yongxin Liu, Visiting undergraduate student, 2017 <br />
-Wanwan Shao, Visiting PhD student 2016-2017, now at Lanzhou University <br />
+Wanwan Shao, Visiting PhD student 2016-2017, now PhD student at Lanzhou University <br />
 Weiyu Zheng, Visiting undergraduate student, 2015, now PhD student at Southern Methodist University <br />
