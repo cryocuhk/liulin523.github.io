@@ -18,6 +18,15 @@
   incdata: 1
   dataurl: https://doi.pangaea.de/10.1594/PANGAEA.885935
 
+- title: Seasonal mass variations show timing and magnitude of meltwater storage in the Greenland Ice Sheet
+  image: dummy.png
+  description: ""
+  authors: Jiangjun Ran, Miren Vizcaino, Pavel Ditmar, Michiel van den Broeke, Twila Moon, Christian Steger, Ellyn Enderlin4, Bert Wouters, Brice Noël, Catharina Reijmer, Roland Klees, Min Zhong, Lin Liu, and Xavier Fettweis
+  link:
+    url: https://www.the-cryosphere.net/12/2981/2018/
+    display:  The Cryosphere (2018)
+  highlight: 0
+
 - title: Sentinel-1 InSAR measurements of surface elevation changes over yedoma uplands on Sobo-Sise Island, Lena Delta
   image: dummy.png
   description: ""
