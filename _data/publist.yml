@@ -114,7 +114,7 @@
   image: dummy.png
   description: ""
   authors:
-    Albert Chen, Andrew D. Parsekian, Kevin Schaefer, Elchin Jafarov, Santosh Panda, Lin Liu, Tingjun Zhang, Howard Zebker
+    Albert Chen, Andrew Parsekian, Kevin Schaefer, Elchin Jafarov, Santosh Panda, Lin Liu, Tingjun Zhang, Howard Zebker
   link:
     url: https://doi.org/10.1190/geo2015-0124.1
     display: Geophysics (2016)
@@ -190,7 +190,7 @@
 - title: Sustained mass loss of the Northeast Greenland ice sheet triggered by regional warming
   image: abbas_nclim.jpg
   description: "We discovered that the last remaining stable portion of the Greenland ice sheet was stable no more."
-  authors: Shfaqat A. Khan, Kurt Kjær, Michael Bevis, Jonathan Bamber, John Wahr, Kristian Kjeldsen, Anders Bjørk, Niels Korsgaard, Leigh Stearns, Michiel R. van den Broeke, Lin Liu, Nicolaj Larsen, Ioana  Muresan
+  authors: Shfaqat A. Khan, Kurt Kjær, Michael Bevis, Jonathan Bamber, John Wahr, Kristian Kjeldsen, Anders Bjørk, Niels Korsgaard, Leigh Stearns, Michiel van den Broeke, Lin Liu, Nicolaj Larsen, Ioana  Muresan
   link:
     url: https://www.nature.com/articles/nclimate2161
     display: Nature Climate Change (2014)
@@ -201,7 +201,7 @@
   image: dummy.png
   description:
   authors:
-    Cuicui Mu, Tingjun Zhang, Paul F. Schuster, Kevin Schaefer, Kimberly P. Wickland, Deborah A. Repert, Lin Liu, Tim Schaefer, Guodong Cheng
+    Cuicui Mu, Tingjun Zhang, Paul Schuster, Kevin Schaefer, Kimberly Wickland, Deborah Repert, Lin Liu, Tim Schaefer, Guodong Cheng
   link:
     url: https://doi.org/10.1016/j.coldregions.2014.01.001
     display: Cold Regions Science and Technology (2014)
