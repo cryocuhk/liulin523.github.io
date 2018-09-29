@@ -11,11 +11,11 @@ permalink: /misc
 ## Group Meetings
 Fall 2018 Schedule (10-11 am, MMW 302)
 
-Sep 4,  Lingcao Huang, Investigating the decadal changes of frozen ground at Resolute Bay in the Canadian High Arctic through surface elevation changes measured by GPS Interferometric Reflectometry
+Sep 4,  Jiahua Zhang, Investigating the decadal changes of frozen ground at Resolute Bay in the Canadian High Arctic through surface elevation changes measured by GPS Interferometric Reflectometry
 
 Sep 11, Xiyu Chen, Detecting main snowmelt and soil thawing events in Alaska
 
-Sep 19, Enze Zhang, Discussing the paper called "Application of Machine Learning to Classification of Volcanic Deformation in Routinely Generated InSAR Data"
+Sep 19, Enze Zhang, Discussing paper "Application of Machine Learning to Classification of Volcanic Deformation in Routinely Generated InSAR Data"
 
 Sep 26, Ka-Shing Ng (Jerry), Interannual to subannual relationship between the variation in Helheim glacier calving front position and atmospheric/oceanic forcing
 
