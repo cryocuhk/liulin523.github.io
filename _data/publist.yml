@@ -13,10 +13,19 @@
   authors: Lin Liu, Kristine M. Larson
   link:
     url: https://www.the-cryosphere.net/12/477/2018/
-    display:  The Cryosphere (2018)
+    display: The Cryosphere (2018)
   highlight: 1
   incdata: 1
   dataurl: https://doi.pangaea.de/10.1594/PANGAEA.885935
+
+- title: Geodetic measurements reveal short-term changes of glacial mass near Jakobshavn Isbræ (Greenland) from 2007 to 2017
+  image: dummy.png
+  description: ""
+  authors: Bao Zhang, Enze Zhang, Lin Liu, Shfaqat Abbas Khan, Tonie van Dam, Yibin Yao, Michael Bevis, and Veit Helm
+  link:
+    url: https://doi.org/10.1016/j.epsl.2018.09.029
+    display: Earth and Planetary Science Letters (2018)
+  highlight: 0
 
 - title: Seasonal mass variations show timing and magnitude of meltwater storage in the Greenland Ice Sheet
   image: dummy.png
@@ -50,7 +59,7 @@
 - title: "Surface deformation monitoring in the permafrost regions over Tibetan Plateau using Sentinel-1 data"
   image: dummy.png
   description: ""
-  authors: Zhenming Wu, Lin Zhao, Lin Liu, Rui Zhu, Zeshen Gao, Yongping Qiao, Liming Tian, Huayun Zhou, Meizhen Xie
+  authors: Zhenming Wu, Lin Zhao, Lin Liu, Rui Zhu, Zeshen Gao, Yongping Qiao, Liming Tian, Huayun Zhou, and Meizhen Xie
   link:
     url: www.scar.ac.cn/fulltext/2018/2/20180203.htm
     display: Sciences in Cold and Arid Regions (2018)
@@ -59,10 +68,10 @@
 - title: "Estimating active layer thickness and volumetric water content from ground penetrating radar measurements in Barrow, Alaska"
   image: dummy.png
   description: ""
-  authors: Elchin Jafarov, Andrew Parsekian, Kevin Schaefer, Lin Liu, Albert Chen, Santosh Panda, Tingjun Zhang
+  authors: Elchin Jafarov, Andrew Parsekian, Kevin Schaefer, Lin Liu, Albert Chen, Santosh Panda, and Tingjun Zhang
   link:
     url: https://doi.org/10.1002/gdj3.49
-    display:  Geoscience Data Journal (2018)
+    display: Geoscience Data Journal (2018)
   highlight: 0
   incdata: 1
   dataurl: http://dx.doi.org/10.3334/ORNLDAAC/1355
