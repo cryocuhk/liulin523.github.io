@@ -36,6 +36,15 @@
     display:  The Cryosphere (2018)
   highlight: 0
 
+- title: Using Persistent Scatterer Interferometry to map and quantify permafrost thaw subsidence: a case study of Eboling Mountain on the Qinghai‐Tibet Plateau
+  image: dummy.png
+  description: ""
+  authors: Jie Chen, Lin Liu, Tingjun Zhang, Bin Cao, Hui Lin
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JF004618
+    display: Journal of Geophysical Research: Earth Surface (2018)
+  highlight: 0
+
 - title: Sentinel-1 InSAR measurements of surface elevation changes over yedoma uplands on Sobo-Sise Island, Lena Delta
   image: dummy.png
   description: ""
