@@ -36,13 +36,13 @@
     display:  The Cryosphere (2018)
   highlight: 0
 
-- title: Using Persistent Scatterer Interferometry to map and quantify permafrost thaw subsidence: a case study of Eboling Mountain on the Qinghai‐Tibet Plateau
+- title: "Using Persistent Scatterer Interferometry to map and quantify permafrost thaw subsidence: a case study of Eboling Mountain on the Qinghai‐Tibet Plateau"
   image: dummy.png
   description: ""
   authors: Jie Chen, Lin Liu, Tingjun Zhang, Bin Cao, Hui Lin
   link:
     url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JF004618
-    display: Journal of Geophysical Research: Earth Surface (2018)
+    display: "Journal of Geophysical Research: Earth Surface (2018)"
   highlight: 0
 
 - title: Sentinel-1 InSAR measurements of surface elevation changes over yedoma uplands on Sobo-Sise Island, Lena Delta
@@ -91,7 +91,7 @@
   authors: Bao Zhang, Lin Liu, Shfaqat Abbas Khan, Tonie van Dam, Enze Zhang, Yibin Yao 
   link:
     url: https://doi.org/10.1002/2017JB014529
-    display: Journal of Geophysical Research - Solid Earth (2017)
+    display: "Journal of Geophysical Research: Solid Earth (2017)"
   highlight: 0
   incdata: 1
   dataurl: https://doi.org/10.1594/PANGAEA.880159
@@ -103,7 +103,7 @@
     Lin Liu, Shfaqat Abbas Khan, Tonie van Dam, Joseph Ho Yin Ma, Michael Bevis
   link:
     url: https://doi.org/10.1002/2016JB013494 
-    display: Journal of Geophysical Research - Solid Earth (2017)
+    display: "Journal of Geophysical Research: Solid Earth (2017)"
   highlight: 0
 
 - title: Mapping and inventorying active rock glaciers in the northern Tien Shan of China using satellite SAR interferometry
@@ -148,7 +148,7 @@
     Lin Liu,  Kevin Schaefer,  Albert Chen,  Alessio Gusmeroli,  Howard Zebker,  Tingjun Zhang
   link:
     url: https://doi.org/10.1002/2015JF003599 
-    display:  Journal of Geophysical Research - Earth Surface (2015) 
+    display: "Journal of Geophysical Research: Earth Surface (2015)"
   highlight: 0
   news2: 
 
