@@ -8,7 +8,7 @@ permalink: /research_frozenground/
 
 # Research on Frozen Ground
 
-## Kinematics and yynamics of periglacial landforms in western China
+## Kinematics and dynamics of periglacial landforms in western China
 
 Yan Hu, PhD student
 
