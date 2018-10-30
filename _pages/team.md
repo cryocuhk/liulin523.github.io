@@ -105,9 +105,10 @@ permalink: /team/
 Joseph Ma Ho Yin, MPhi student 2014-2016, now PhD student at National University of Singapore <br />
 
 **Postdocs**<br />
+Jiangjun Ran, 2018, now Assitant Professor at Southern University of Science and Technology <br />
 Bao Zhang, 2017-2018, now at Wuhan University <br />
 Zhiwei Zhou, 2017-2018, now at Institute of Geodesy and Geophysics, Chinese Academy of Sciences <br />
-Bo Hu, 2015, now at Guangdong University of Technology <br />
+Bo Hu, 2015, now faculty member at Guangdong University of Technology <br />
 
 **Research Assistants**<br />
 Kenneth Ho Ngai Lun, 2017-2018 <br />
