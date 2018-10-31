@@ -1,3 +1,12 @@
+- title: "Detecting soil freeze/thaw onsets in Alaska using SMAP and ASCAT data"
+  image: dummy.png 
+  description: ""
+  authors: Xiyu Chen, Lin Liu, Annett Bartsch
+  link:
+    url: https://doi.org/10.1016/j.rse.2018.10.010
+    display: Remote Sensing of Environment (2019)
+  highlight: 0
+
 - title: "GPS Interferometric Reflectometry reveals cyclic elevation changes in thaw and freezing seasons in a permafrost area (Barrow, Alaska)"
   image: pf_mercury.jpg
   description: ""
