@@ -54,7 +54,7 @@
     display: "Journal of Geophysical Research: Earth Surface (2018)"
   highlight: 0
 
-- title: Sentinel-1 InSAR measurements of surface elevation changes over yedoma uplands on Sobo-Sise Island, Lena Delta
+- title: Sentinel-1 InSAR measurements of elevation changes over yedoma uplands on Sobo-Sise Island, Lena Delta
   image: dummy.png
   description: ""
   authors: Jie Chen, Frank Günther, Guido Grosse, Lin Liu, Hui Lin
@@ -154,7 +154,7 @@
   description:
     ADD Description
   authors:
-    Lin Liu,  Kevin Schaefer,  Albert Chen,  Alessio Gusmeroli,  Howard Zebker,  Tingjun Zhang
+    Lin Liu, Kevin Schaefer, Albert Chen, Alessio Gusmeroli, Howard Zebker, Tingjun Zhang
   link:
     url: https://doi.org/10.1002/2015JF003599 
     display: "Journal of Geophysical Research: Earth Surface (2015)"
@@ -189,7 +189,7 @@
   image: dummy.png
   description:
   authors:
-   Alessio Gusmeroli, Lin Liu, Kevin Schaefer, Tingjun Zhang, Timothy Schaefer,  Guido Grosse 
+   Alessio Gusmeroli, Lin Liu, Kevin Schaefer, Tingjun Zhang, Timothy Schaefer, Guido Grosse 
   link:
     url: https://doi.org/10.1657/AAAR00C-13-301
     display:  Arctic, Antarctic, and Alpine Research (2015)
@@ -198,7 +198,7 @@
 - title: InSAR detects increase in surface subsidence caused by an Arctic tundra fire
   image: fire_sub.png
   description: "Wildfires promoted permafrost degradation and ground subsidence, as revealed by InSAR observations from space."
-  authors: Lin Liu,  Elchin Jafarov,  Kevin Schaefer,  Benjamin Jones,  Howard Zebker, Christopher Williams,  John Rogan,  Tingjun Zhang
+  authors: Lin Liu, Elchin Jafarov, Kevin Schaefer, Benjamin Jones, Howard Zebker, Christopher Williams, John Rogan, Tingjun Zhang
   link:
     url: https://doi.org/10.1002/2014GL060533
     display:  Geophysical Research Letters (2014)
@@ -217,7 +217,7 @@
 - title: Sustained mass loss of the Northeast Greenland ice sheet triggered by regional warming
   image: abbas_nclim.jpg
   description: "We discovered that the last remaining stable portion of the Greenland ice sheet was stable no more."
-  authors: Shfaqat A. Khan, Kurt Kjær, Michael Bevis, Jonathan Bamber, John Wahr, Kristian Kjeldsen, Anders Bjørk, Niels Korsgaard, Leigh Stearns, Michiel van den Broeke, Lin Liu, Nicolaj Larsen, Ioana  Muresan
+  authors: Shfaqat A. Khan, Kurt Kjær, Michael Bevis, Jonathan Bamber, John Wahr, Kristian Kjeldsen, Anders Bjørk, Niels Korsgaard, Leigh Stearns, Michiel van den Broeke, Lin Liu, Nicolaj Larsen, Ioana Muresan
   link:
     url: https://www.nature.com/articles/nclimate2161
     display: Nature Climate Change (2014)
@@ -246,7 +246,7 @@
 - title: Detecting unfrozen sediments below thermokarst lakes with Surface Nuclear Magnetic Resonance
   image: dummy.png
   description:
-  authors: Andrew Parsekian, Guido Grosse, Jan  Walbrecker, Mike Müller‐Petke, Kristina Keating, Lin Liu, Benjamin Jones, Rosemary Knight
+  authors: Andrew Parsekian, Guido Grosse, Jan Walbrecker, Mike Müller‐Petke, Kristina Keating, Lin Liu, Benjamin Jones, Rosemary Knight
   link:
     url: https://doi.org/10.1002/grl.50137 
     display: Geophysical Research Letters (2013)
