@@ -7,13 +7,22 @@
     display: Remote Sensing of Environment (2019)
   highlight: 0
 
+- title: "Inference of the impact of wildfire on permafrost and active layer thickness in a discontinuous permafrost region using the remotely sensed active layer thickness (ReSALT) algorithm"
+  image: dummy.png 
+  description: ""
+  authors: Roger Michaelides, Kevin Schaefer, Howard Zebker, Andrew Parsekian, Lin Liu, Jingyi Chen, Susan M Natali, Sarah Ludwig, and Sean Schaefer
+  link:
+    url: http://iopscience.iop.org/article/10.1088/1748-9326/aaf932
+    display: Environmental Research Letters (2018)
+  highlight: 0
+
 - title: "GPS Interferometric Reflectometry reveals cyclic elevation changes in thaw and freezing seasons in a permafrost area (Barrow, Alaska)"
   image: pf_mercury.jpg
   description: ""
   authors: Yufeng Hu, Lin Liu, Kristine Larson, Kevin Schaefer, Jiahua Zhang, Yibin Yao
   link:
     url: https://doi.org/10.1029/2018GL077960
-    display:  Geophysical Research Letters (2018)
+    display: Geophysical Research Letters (2018)
   highlight: 0
 
 - title: "Decadal changes of surface elevation over permafrost area estimated using reflected GPS signals"
