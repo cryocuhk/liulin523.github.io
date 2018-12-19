@@ -7,6 +7,15 @@
     display: Remote Sensing of Environment (2019)
   highlight: 0
 
+- title: "Automatic mapping of thermokarst landforms from remote sensing images using deep learning: A case study in the Northeastern Tibetan Plateau"
+  image: dummy.png 
+  description: ""
+  authors: Lingcao Huang, Lin Liu, Liming Jiang and Tingjun Zhang
+  link:
+    url: https://www.mdpi.com/2072-4292/10/12/2067
+    display: Remote Sensing (2018)
+  highlight: 0
+
 - title: "Inference of the impact of wildfire on permafrost and active layer thickness in a discontinuous permafrost region using the remotely sensed active layer thickness (ReSALT) algorithm"
   image: dummy.png 
   description: ""
