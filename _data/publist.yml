@@ -1,3 +1,14 @@
+- title: "Automatically delineating the calving front of Jakobshavn Isbræ from multi-temporal TerraSAR-X images: a deep learning approach"
+  image: dummy.png 
+  description: ""
+  authors: Enze Zhang, Lin Liu, Lingcao Huang
+  link:
+    url: https://www.the-cryosphere-discuss.net/tc-2019-14/
+    display: The Cryosphere Discussion (2019)
+  highlight: 0
+  incdata: 1
+  dataurl: https://doi.org/10.1594/PANGAEA.897064
+
 - title: "Detecting soil freeze/thaw onsets in Alaska using SMAP and ASCAT data"
   image: dummy.png 
   description: ""
