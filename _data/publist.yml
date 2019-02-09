@@ -29,7 +29,7 @@
   inccode: 1
   code:
     url: https://github.com/yghlc/DeeplabforRS
-    display: Code: DeeplabforRS (Author: Lingcao Huang)
+    display: Code "DeeplabforRS" (Written and maintained by Lingcao Huang)
 
 - title: "Inference of the impact of wildfire on permafrost and active layer thickness in a discontinuous permafrost region using the remotely sensed active layer thickness (ReSALT) algorithm"
   image: dummy.png 
