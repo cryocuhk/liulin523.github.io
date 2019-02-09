@@ -15,7 +15,7 @@
     url: https://www.mdpi.com/2072-4292/10/12/2067
     display: Remote Sensing (2018)
   highlight: 0
-  inccode 1
+  inccode: 1
   code:
     url: https://github.com/yghlc/DeeplabforRS
     display: Code: DeeplabforRS (Author: Lingcao Huang)
