@@ -18,6 +18,15 @@
     display: Remote Sensing of Environment (2019)
   highlight: 0
 
+- title: "Changes in groundwater level possibly encourage shallow earthquakes in central Australia: The 2016 Petermann Ranges earthquake"
+  image: dummy.png 
+  description: ""
+  authors: Shuai Wang, Wenbin Xu, Caijun Xu, Zhi Yin, Roland Bürgmann, Lin Liu, Guoyan Jiang
+  link:
+    url: https://doi.org/10.1029/2018GL080510
+    display: Geophysical Research Letters (2019)
+  highlight: 0
+
 - title: "Automatic mapping of thermokarst landforms from remote sensing images using deep learning: A case study in the Northeastern Tibetan Plateau"
   image: dummy.png 
   description: ""
