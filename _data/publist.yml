@@ -27,6 +27,14 @@
     display: Geophysical Research Letters (2019)
   highlight: 0
 
+- title: "Inference of the impact of wildfire on permafrost and active layer thickness in a discontinuous permafrost region using the remotely sensed active layer thickness (ReSALT) algorithm"
+  image: dummy.png 
+  description: ""
+  authors: Roger Michaelides, Kevin Schaefer, Howard Zebker, Andrew Parsekian, Lin Liu, Jingyi Chen, Susan M Natali, Sarah Ludwig, and Sean Schaefer
+  link:
+    url: http://iopscience.iop.org/article/10.1088/1748-9326/aaf932
+  highlight: 0
+
 - title: "Automatic mapping of thermokarst landforms from remote sensing images using deep learning: A case study in the Northeastern Tibetan Plateau"
   image: dummy.png 
   description: ""
@@ -39,15 +47,6 @@
   code:
     url: https://github.com/yghlc/DeeplabforRS
     display: Code "DeeplabforRS" (Written and maintained by Lingcao Huang)
-
-- title: "Inference of the impact of wildfire on permafrost and active layer thickness in a discontinuous permafrost region using the remotely sensed active layer thickness (ReSALT) algorithm"
-  image: dummy.png 
-  description: ""
-  authors: Roger Michaelides, Kevin Schaefer, Howard Zebker, Andrew Parsekian, Lin Liu, Jingyi Chen, Susan M Natali, Sarah Ludwig, and Sean Schaefer
-  link:
-    url: http://iopscience.iop.org/article/10.1088/1748-9326/aaf932
-    display: Environmental Research Letters (2018)
-  highlight: 0
 
 - title: "GPS Interferometric Reflectometry reveals cyclic elevation changes in thaw and freezing seasons in a permafrost area (Barrow, Alaska)"
   image: 
