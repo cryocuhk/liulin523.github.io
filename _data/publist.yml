@@ -1,3 +1,12 @@
+- title: "Geodetic and model data reveal different spatio-temporal patterns of transient mass changes over Greenland from 2007 to 2017"
+  image: dummy.png 
+  description: ""
+  authors: Bao Zhang, Lin Liu, Shfaqat Abbas Khan, Tonie van Dam, Anders Anker Bjørk, Yannick Peings, Enze Zhang, Michael Bevis, Yibin Yao, Brice Noël
+  link:
+    url: https://doi.org/10.1016/j.epsl.2019.03.028
+    display: Earth and Planetary Science Letters (2019)
+  highlight: 0
+
 - title: "Automatically delineating the calving front of Jakobshavn Isbræ from multi-temporal TerraSAR-X images: a deep learning approach"
   image: dummy.png 
   description: ""
