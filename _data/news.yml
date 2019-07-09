@@ -1,5 +1,5 @@
 - date: July 9 2019
-  headline: "Welcome to all EASC summer workshop attendees! Check out <a href='{{ site.url }}{{ site.baseurl }}/assets/CryosphereGeophysics_intro_2019.pdf' > introduction presentation on cryosphere geophysics </a>."
+  headline: "Welcome to all EASC summer workshop attendees! Check out <a href='cryocuhk.github.io/assets/CryosphereGeophysics_intro_2019.pdf' > introduction presentation on cryosphere geophysics </a>."
 
 - date: July 2 2019
   headline: "Summer visiting students Yidan, Haoran, and Linyang joined our group. Welcome!" 
