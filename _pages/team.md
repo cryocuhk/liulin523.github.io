@@ -111,11 +111,13 @@ Zhiwei Zhou, 2017-2018, now at Institute of Geodesy and Geophysics, Chinese Acad
 Bo Hu, 2015, now faculty member at Guangdong University of Technology <br />
 
 **Research Assistants**<br />
-Kenneth Ho Ngai Lun, 2017-2018 <br />
-Xiaowen Wang, 2016-2017, now postdoc at University of Tokyo <br />
 Yufeng Hu, 2017-2018, now lecturer at Chang'an University <br />
+Kenneth Ho Ngai Lun, 2017-2018 <br />
+Xiaowen Wang, 2016-2017, now Associate Professor at Southwest Jiaotong University <br />
 
 **Visiting Students**<br />
+Linyang Xin, Visiting master student, 2019, now master student at Wuhan University <br />
+Yidan Ding and Haoran Wang, Visiting master student, 2019, now master student at Jilin University <br />
 Weifan Zhou, Visiting master student, 2018, now master student at Jilin University <br />
 Zhenming Wu, Visiting master student, 2017, now PhD student at Reading University <br />
 Jiahui Wang, Visiting undergraduate student, 2017, now PhD student at Southern Methodist University <br />
