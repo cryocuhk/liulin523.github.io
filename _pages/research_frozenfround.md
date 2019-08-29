@@ -61,7 +61,7 @@ Jie Chen, research assistant
 
 Jie's research focuses on investigating permafrost surface dynamics by using radar remote sensing and field observations across local and regional scales. He incorporates permafrost thaw subsidence and uplift model into multi-temporal radar interferometry approaches to mapping and quantifying gradual permafrost thaw subsidence and freeze uplift. He is also interested in retrieving soil moisture based on SAR and polarimetric SAR and mitigating its affect on radar interferometry.
 
-![]({{ site.url }}{{ site.baseurl }}/images/research/Jie_InSAR.jpg){: style="width: 800px"}
+![]({{ site.url }}{{ site.baseurl }}/images/research/Jie_InSAR.png){: style="width: 800px"}
 
 *Left: Map of linear subsidence trends in Eboling Mountain, Qinghai-Tibetan Plateau, China. Negative values denote ground subsidence.
 Right: Seasonal subsidence amplitude. The linear subsidence trends is mainly related to the thawing and degradation of the uppermost permafrost. The seasonal subsidence trends is mainly caused by the volumetric changes of active layer during the freezing and thawing stage.*
