@@ -64,5 +64,5 @@ Jie's research focuses on investigating permafrost surface dynamics by using rad
 ![]({{ site.url }}{{ site.baseurl }}/images/research/Jie_InSAR.png){: style="width: 800px"}
 
 *Left: Map of linear subsidence trends in Eboling Mountain, Qinghai-Tibetan Plateau, China. Negative values denote ground subsidence.
-Right: Seasonal subsidence amplitude. The linear subsidence trends is mainly related to the thawing and degradation of the uppermost permafrost. The seasonal subsidence trends is mainly caused by the volumetric changes of active layer during the freezing and thawing stage.*
+Right: Map of seasonal subsidence amplitude. The linear subsidence trends are mainly related to the thawing and degradation of the uppermost permafrost. The seasonal subsidence is mainly caused by the volumetric changes of active layer during the freezing and thawing stage.*
 
