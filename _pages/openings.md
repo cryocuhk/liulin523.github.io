@@ -12,9 +12,9 @@ Our group takes one or two new PhD students every year. Students in our group ca
 
 Please refer to our [postgraduate programme webpage](http://www.cuhk.edu.hk/sci/essc/pg_prg.html) for [admission requirements](http://www.cuhk.edu.hk/sci/essc/pg_prg.html#require), [procedures](http://www.cuhk.edu.hk/sci/essc/pg_prg.html#procedure), and [deadlines](http://www.cuhk.edu.hk/sci/essc/pg_prg.html#period).
 
-You are highly suggested to apply for the prestigious **Hong Kong PhD Fellowship Scheme**. The application deadline is 1 December every year. Please refer to [this website](http://www.rgc.edu.hk/hkphd) for further details of the Scheme. 
+You are highly suggested to apply for the prestigious **Hong Kong PhD Fellowship Scheme**. The application deadline is around 1 December every year. Please refer to [this website](http://www.rgc.edu.hk/hkphd) for further details of the scheme. 
 
-Every summer in early July, we host a **workshop** inviting all potential applicants to our campus. The first batch of PhD offers are made shortly after the workshop. Application is now open with a deadline on May 5.  See futher detail from this [webpage](http://www.cuhk.edu.hk/sci/essc/sw2019.html). 
+Every summer in early July, we host a **workshop** inviting all potential applicants to our campus. The first batch of PhD offers are made shortly after the workshop. <!-- Application is now open with a deadline on May 5.  See futher detail from this [webpage](http://www.cuhk.edu.hk/sci/essc/sw2019.html).--> 
 
 
 ## Postdoc positions
@@ -27,4 +27,3 @@ If you are an undergraduate student at CUHK looking for a research project, cont
 <figure>
 <!--- <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/non_pic.jpg" width="95%">  -->
 </figure>
-
