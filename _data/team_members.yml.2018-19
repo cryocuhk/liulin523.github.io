@@ -3,7 +3,7 @@
   info: PhD student
   email: xiyu_chen@link.cuhk.edu.hk
   number_educ: 1
-  education1: BSc and Master in Geographic Information System, Beijing Normal University
+  education1: BSc and Master in Geographic Information System, Beijing Normal University, China
   number_intr: 2
   interest1: Microwave remote sensing of soil freeze/thaw states
   interest2: Microwave remote sensing of snow
@@ -15,7 +15,7 @@
   addcv: 1
   cv: CV_YanHU_180802.pdf
   number_educ: 1
-  education1: BSc and Master in Geology, Peking University
+  education1: BSc and Master in Geology, Peking University, China
   number_intr: 3
   interest1: Periglacial landforms in western China 
   interest2: Rock glacier dynamics
@@ -23,15 +23,26 @@
   
 - name: Lingcao Huang
   photo: lingcao.jpg
-  info: Postdoc
+  info: PhD student
   email: huanglingcao@link.cuhk.edu.hk
-  number_educ: 2
-  education1: PhD in Earth and Atmospheric Sciences, The Chinese University of Hong Kong
-  education2: BSc and Master in Remote Sensing, Wuhan University
+  number_educ: 1
+  education1: BSc and Master in Remote Sensing, Wuhan University, China
   number_intr: 3
   interest1: Thermokarst landforms on the Tibetan Plateau
   interest2: Automatic mapping methods based on Deep Learning
   interest3: Ice-rich permafrost responses to climate change
+
+- name: Guoyan Jiang
+  photo: guoyan.jpg
+  info: Research Associate (co-supervised with Prof. Teng-fong Wong)
+  email: guoyan.jiang@gmail.com
+  number_educ: 2
+  education1: PhD in Geodesy and Geomatics Engineering, Wuhan University
+  education2: Postdoc, Institute of Geology, China Earthquake Administration
+  number_intr: 3
+  interest1: Tectonic and non-tectonic geodesy
+  interest2: Poroelastic simulation
+  interest3: Induced seismicity
 
 - name: Enze Zhang
   photo: enze.jpg
@@ -49,7 +60,7 @@
   info: PhD student
   email: zhangjiahua@link.cuhk.edu.hk
   number_educ: 1
-  education1: BSc and Master in Geodesy and Survey Engineering, Wuhan University
+  education1: BSc and Master in Geodesy and Survey Engineering, Wuhan University, China
   number_intr: 3
   interest1: GNSS Reflectometry and its applications in Cryosphere
   interest2: Dynamics of active layer and near-surface permafrost
@@ -60,18 +71,18 @@
   info: PhD student
   email: xuxingyu@link.cuhk.edu.hk
   number_educ: 1
-  education1: BSc and Master in Geodesy and Survey Engineering, Wuhan University
+  education1: BSc and Master in Geodesy and Survey Engineering, Wuhan University, China
 
 - name: Jie Chen
   photo: Jie.jpg
-  info: Research Assistant
+  info: research assistant
   email: jiechen@link.cuhk.edu.hk
   addcv: 1
   cv: Jie_CV.pdf
   number_educ: 3
-  education1: PhD in Earth System and Geoinformation Science, The Chinese University of Hong Kong
-  education2: Master in Geology, Tongji University
-  education3: BSc in Geodesy, Shandong Jiaotong University
+  education1: PhD in Earth System and Geoinformation Science, the Chinese University of Hong Kong, Hong Kong, China
+  education2: Master in Geology, Tongji University, China 
+  education3: BSc in Geodesy, Shandong Jiaotong University, China
   number_intr: 3
   interest1: Permafrost and active layer dynamics
   interest2: Radar remote sensing
