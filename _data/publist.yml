@@ -1,4 +1,16 @@
+- title: "GPS Interferometric Reflectometry measurements of ground surface elevation changes in permafrost areas in northern Canada"
+  image: dummy.png 
+  description: ""
+  authors: Jiahua Zhang, Lin Liu, Yufeng Hu 
+  link:
+    url: https://www.the-cryosphere-discuss.net/tc-2019-173/
+    display: The Cryosphere Discussion (2019)
+  highlight: 0
+  incdata: 1
+  dataurl: https://doi.pangaea.de/10.1594/PANGAEA.904347
+
 - title: "Automatically delineating the calving front of Jakobshavn Isbræ from multitemporal TerraSAR-X images: a deep learning approach"
+  image: dummy.png
   image: dummy.png 
   description: ""
   authors: Enze Zhang, Lin Liu, Lingcao Huang
@@ -79,7 +91,7 @@
   incdata: 1
   dataurl: https://doi.pangaea.de/10.1594/PANGAEA.885935
 
-- title: Geodetic measurements reveal short-term changes of glacial mass near Jakobshavn Isbræ (Greenland) from 2007 to 2017
+- title: "Geodetic measurements reveal short-term changes of glacial mass near Jakobshavn Isbræ (Greenland) from 2007 to 2017"
   image: dummy.png
   description: ""
   authors: Bao Zhang, Enze Zhang, Lin Liu, Shfaqat Abbas Khan, Tonie van Dam, Yibin Yao, Michael Bevis, and Veit Helm
