@@ -57,6 +57,15 @@
     display: Environmental Research Letters (2019)
   highlight: 0
 
+- title: "Using Long-Term SAR Backscatter Data to Monitor Post-Fire Vegetation Recovery in Tundra Environment"
+  image: dummy.png 
+  description: ""
+  authors:  Zhiwei Zhou, Lin Liu, Liming Jiang, Wanpeng Feng, and Sergey V. Samsonov 
+  link:
+    url: https://www.mdpi.com/2072-4292/11/19/2230
+    display: Remote Sensing (2019)
+  highlight: 0
+
 - title: "Automatic mapping of thermokarst landforms from remote sensing images using deep learning: A case study in the Northeastern Tibetan Plateau"
   image: dummy.png 
   description: ""
@@ -100,7 +109,7 @@
     display: Earth and Planetary Science Letters (2018)
   highlight: 0
 
-- title: Seasonal mass variations show timing and magnitude of meltwater storage in the Greenland Ice Sheet
+- title: "Seasonal mass variations show timing and magnitude of meltwater storage in the Greenland Ice Sheet"
   image: dummy.png
   description: ""
   authors: Jiangjun Ran, Miren Vizcaino, Pavel Ditmar, Michiel van den Broeke, Twila Moon, Christian Steger, Ellyn Enderlin, Bert Wouters, Brice Noël, Catharina Reijmer, Roland Klees, Min Zhong, Lin Liu, and Xavier Fettweis
