@@ -39,6 +39,15 @@
     display: Remote Sensing of Environment (2019)
   highlight: 0
 
+- title: "Synchrotron X-ray imaging in 4D: Multiscale failure and compaction localization in triaxially compressed porous limestone"
+  image: dummy.png 
+  description: ""
+  authors: Lingcao Huang, Patrick Baud, Benoit Cordonnier, François Renard, LinLiu, Teng-fong Wong
+  link:
+    url: https://doi.org/10.1016/j.epsl.2019.115831
+    display: Earth and Planetary Science Letters (2019)
+  highlight: 0
+
 - title: "Changes in groundwater level possibly encourage shallow earthquakes in central Australia: The 2016 Petermann Ranges earthquake"
   image: dummy.png 
   description: ""

@@ -8,7 +8,8 @@ permalink: /openings
 # Openings 
 
 ## PhD positions
-Our group takes one or two new PhD students every year. Students in our group came from various educational backgrounds (geology, geomatics, math, physics, remote sensing, solid-earth geophysics, etc). Students with strong mathematics and physics background and programming skills are desirable. If you are interested in pursuing PhD degree in our group, please send an [email](mailto:liulin@cuhk.edu.hk). State what and why you are interested and attach a CV.
+<!-- Our group takes one or two new PhD students every year. --> 
+We have two PhD openings for the next academic year (starting August 2020). Students in our group came from various educational backgrounds (solid-earth geophycisc, geology, math, physics, remote sensing, geomatics, GIS, etc). Students with strong mathematics and physics background and programming skills are desirable. If you are interested in pursuing PhD degree in our group, please send an [email](mailto:liulin@cuhk.edu.hk). State what and why you are interested and attach a CV.
 
 Please refer to our [postgraduate programme webpage](http://www.cuhk.edu.hk/sci/essc/pg_prg.html) for [admission requirements](http://www.cuhk.edu.hk/sci/essc/pg_prg.html#require), [procedures](http://www.cuhk.edu.hk/sci/essc/pg_prg.html#procedure), and [deadlines](http://www.cuhk.edu.hk/sci/essc/pg_prg.html#period).
 
@@ -16,6 +17,8 @@ You are highly suggested to apply for the prestigious **Hong Kong PhD Fellowship
 
 Every summer in early July, we host a **workshop** inviting all potential applicants to our campus. The first batch of PhD offers are made shortly after the workshop. <!-- Application is now open with a deadline on May 5.  See futher detail from this [webpage](http://www.cuhk.edu.hk/sci/essc/sw2019.html).--> 
 
+## MPhil positions
+Contact us
 
 ## Postdoc positions
 Currently unavailable

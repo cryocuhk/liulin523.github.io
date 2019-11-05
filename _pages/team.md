@@ -22,7 +22,7 @@ permalink: /team/
   <h3>{{ member.name }}</h3>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i> 
   <br>
-  <a href="http://www.cuhk.edu.hk/sci/essc/people/liu.html"> Personal Webpage </a>
+  <a href="http://www.cuhk.edu.hk/sci/essc/people/liu.html"> Department Webpage </a>
   <br>
   <a href="{{ site.url }}{{ site.baseurl }}/assets/{{ member.cv }}"> CV </a> and  <a href="https://scholar.google.com.hk/citations?user=5VBaQTIAAAAJ&hl=en"> Google Scholar </a>
 </div>
