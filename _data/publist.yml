@@ -1,10 +1,24 @@
+- title: "Using deep learning to map retrogressive thaw slumps in the Beiluhe region (Tibetan Plateau) from CubeSat images"
+  image: dummy.png
+  description: ""
+  authors: Lingcao Huang, Jing Luo, Zhanju Lin, Fujun Niu, Lin Liu
+  link:
+    url: https://doi.org/10.1016/j.rse.2019.111534
+    display: Remote Sensing of Environment (2020)
+  highlight: 0
+  incdata: 0
+  inccode: 1
+  code:
+    url: https://github.com/yghlc/Landuse_DL
+    display: Code "Landuse_DL" (Written and maintained by Lingcao Huang)
+
 - title: "GPS observed horizontal ground extension at the Hutubi (China) underground gas storage facility and its application to geomechanical modeling for induced seismicity"
   image: dummy.png
   description: ""
   authors: Guoyan Jiang, Xuejun Qiao, Xiaoqiang Wang, Renqi Lu, Lin Liu, Hongfeng Yang, Yuanda Su, Lili Song, Baoshan Wang, and Teng-fong Wong
   link:
     url: https://doi.org/10.1016/j.epsl.2019.115943
-    display: Earth and Planetary Science Letters (2020)
+    display: Earth and Planetary Science Letters (2019)
   highlight: 0
   incdata: 0
 
