@@ -110,7 +110,7 @@ Guoyan Jiang, 2017-19, jointly supervised with Prof. T-f Wong, now Visiting Scie
 Jiangjun Ran, 2018, now Assitant Professor at Southern University of Science and Technology <br />
 Bao Zhang, 2017-18, now at Wuhan University <br />
 Zhiwei Zhou, 2017-18, now at Institute of Geodesy and Geophysics, Chinese Academy of Sciences <br />
-Bo Hu, 2015, now faculty member at Guangdong University of Technology <br />
+Bo Hu, 2015, now faculty at Guangdong University of Technology <br />
 
 **Research Assistants**<br />
 Yufeng Hu, 2017-18, now Lecturer at Chang'an University <br />
@@ -122,11 +122,11 @@ Yue Wu, 2017, now PhD student at University of Texas at Austin <br />
 Michelle Yip Man Wai, 2016, now MPhil student at University of Hong Kong <br />
 
 **Visiting Students**<br />
-Linyang Xin, Visiting master student, 2019, now master student at Wuhan University <br />
-Yidan Ding and Haoran Wang, Visiting master student, 2019, now master student at Jilin University <br />
-Weifan Zhou, Visiting master student, 2018, now master student at Jilin University <br />
-Zhenming Wu, Visiting master student, 2017, now PhD student at Reading University <br />
-Jiahui Wang, Visiting undergraduate student, 2017, now PhD student at Southern Methodist University <br />
-Yongxin Liu, Visiting undergraduate student, 2017 <br />
+Linyang Xin, 2019, now master student at Wuhan University <br />
+Yidan Ding and Haoran Wang, 2019, now master students at Jilin University <br />
+Weifan Zhou, 2018, now master student at Jilin University <br />
+Zhenming Wu, 2017, now PhD student at Reading University <br />
+Jiahui Wang, 2017, now PhD student at Southern Methodist University <br />
+Yongxin Liu, 2017 <br />
 Wanwan Shao, Visiting PhD student 2016-17, now PhD student at Lanzhou University <br />
-Weiyu Zheng, Visiting undergraduate student, 2015, now PhD student at Southern Methodist University <br />
+Weiyu Zheng, 2015, now PhD student at Southern Methodist University <br />

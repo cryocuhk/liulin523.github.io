@@ -28,7 +28,7 @@ Yan is supported by the [Hong Kong PhD Fellowship Scheme](http://www.rgc.edu.hk/
 
 ## Thermokarst landforms on the Tibetan Plateau
 
-Lingcao Huang, PhD student
+Lingcao Huang, Postdoc
 
 Lingcao's research focuses on the distribution of thermokarst landforms, including thaw slumps (the figure below) and thermal erosion gullies, on the Tibetan Plateau and the factors affecting them. In many permafrost areas, warming and thawing of ground result in distinct thermokarst landforms in remote and isolated regions. He applies image processing methods, including deep learning algorithm, to multi-source remote sensing data, aiming to map these landforms automatically. He also analyzes the spatial-temporal changes of the mapped landforms and investigates the driving factors of their evolution by integrating other data such as digital elevation model and meteorological data.
 
@@ -57,7 +57,7 @@ This research is funded by the Hong Kong Research Grants Council.
 
 ## Radar Remote Sensing of Permafrost Elevation Changes
 
-Jie Chen, research assistant
+Jie Chen, Research Assistant
 
 Jie's research focuses on investigating permafrost surface dynamics by using radar remote sensing and field observations across local and regional scales. He incorporates permafrost thaw subsidence and uplift model into multi-temporal radar interferometry approaches to mapping and quantifying gradual permafrost thaw subsidence and freeze uplift. He is also interested in retrieving soil moisture based on SAR and polarimetric SAR and mitigating its affect on radar interferometry.
 
