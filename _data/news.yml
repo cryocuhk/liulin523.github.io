@@ -1,3 +1,6 @@
+- date: December 19 2019
+  headline: "Yan is heading to University of Exeter for a six-month visit to Prof. Stephan Harrison. Have a wonderful and fruitful exchange!"
+
 - date: November 22 2019
   headline: "Lingcao's <a href='https://doi.org/10.1016/j.rse.2019.111534' > deep learning paper </a> for mapping retrogressive thaw slumps is published in Remote Sensing of Environment! Codes are available on <a href='https://github.com/yghlc/Landuse_DL' > GitHub</a>." 
 
@@ -16,8 +19,8 @@
 - date: July 10 2019
   headline: "Enze and Yan received the Global Scholarship Programme for Research Excellence from CUHK for their upcoming research visits in Denmark and UK. Congratulations!" 
 
-- date: July 9 2019
-  headline: "Welcome to all EASC summer workshop attendees!" 
+  #- date: July 9 2019
+  #headline: "Welcome to all EASC summer workshop attendees!" 
 
 - date: July 2 2019
   headline: "Summer visiting students Yidan, Haoran, and Linyang joined our group. Welcome!" 
