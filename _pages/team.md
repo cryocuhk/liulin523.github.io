@@ -106,10 +106,10 @@ Lingcao Huang, PhD student 2016-19, now Postdoc at CUHK <br />
 Joseph Ma Ho Yin, MPhil student 2014-16, now PhD student at National University of Singapore <br />
 
 **Postdocs**<br />
-Guoyan Jiang, 2017-19, jointly supervised with Prof. T-f Wong, now Visiting Scientist at US Geological Survey <br />
+Guoyan Jiang, 2017-19, jointly supervised with Prof. T-f Wong, now Research Professor at Wuhan University <br />
 Jiangjun Ran, 2018, now Assitant Professor at Southern University of Science and Technology <br />
 Bao Zhang, 2017-18, now at Wuhan University <br />
-Zhiwei Zhou, 2017-18, now at Institute of Geodesy and Geophysics, Chinese Academy of Sciences <br />
+Zhiwei Zhou, 2017-18, now Associate Researcher at Institute of Geodesy and Geophysics, Chinese Academy of Sciences <br />
 Bo Hu, 2015, now faculty at Guangdong University of Technology <br />
 
 **Research Assistants**<br />
