@@ -18,7 +18,7 @@
   authors: Guoyan Jiang, Xuejun Qiao, Xiaoqiang Wang, Renqi Lu, Lin Liu, Hongfeng Yang, Yuanda Su, Lili Song, Baoshan Wang, and Teng-fong Wong
   link:
     url: https://doi.org/10.1016/j.epsl.2019.115943
-    display: Earth and Planetary Science Letters (2019)
+    display: Earth and Planetary Science Letters (2020)
   highlight: 0
   incdata: 0
 
@@ -88,15 +88,6 @@
   link:
     url: http://iopscience.iop.org/article/10.1088/1748-9326/aaf932
     display: Environmental Research Letters (2019)
-  highlight: 0
-
-- title: "Using Long-Term SAR Backscatter Data to Monitor Post-Fire Vegetation Recovery in Tundra Environment"
-  image: dummy.png 
-  description: ""
-  authors:  Zhiwei Zhou, Lin Liu, Liming Jiang, Wanpeng Feng, and Sergey V. Samsonov 
-  link:
-    url: https://www.mdpi.com/2072-4292/11/19/2230
-    display: Remote Sensing (2019)
   highlight: 0
 
 - title: "Automatic mapping of thermokarst landforms from remote sensing images using deep learning: A case study in the Northeastern Tibetan Plateau"
