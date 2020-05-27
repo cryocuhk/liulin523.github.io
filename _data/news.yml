@@ -1,3 +1,9 @@
+- date: June 1 2020 
+  headline: "Billy Tsang joined our research group as a research assistant and wil officially start his MPhil with us in August. Welcome aborad, Billy!"
+
+- date: May 27 2020 
+  headline: "Hope everyone is healthy and safe during the COVID-19 pandemic. Our website is now recovering from a long hiatus."
+
 - date: January 20 2020 
   headline: "Lin was promoted as Associate Professor of Earth System Science (tenured) and Head of Graduate Division of Earth and Atmospheric Sciences, CUHK!"
 
@@ -14,7 +20,7 @@
   headline: "Jie passed his PhD thesis defense! Congratulations to Dr. Chen!"
 
 - date: August 1 2019
-  headline: "Xingyu (Carol) Xu joined our research group as a PhD student! Welcome!"
+  headline: "Xingyu (Carol) Xu joined our research group as a PhD student! Warmest Welcome!"
 
 - date: July 16 2019
   headline: "Lingcao passed his PhD thesis defense! Biggest congratulations to Dr. Huang, the very first doctor from our research group!" 
@@ -40,8 +46,8 @@
 - date: March 30 2019
   headline: "Our <a href='https://doi.org/10.1016/j.epsl.2019.03.028' > new paper </a> published in Earth and Planetary Science Letters! We documented short-term mass changes of the Greenland Ice Sheet and investigate their possible links to atmospheric circulation anomalies."
 
-- date: February 7 2019
-  headline: "Enze's manuscript on the use of deep learning to automatically delinate glacial calving fronts is posted as a discussion paper in <a href='https://www.the-cryosphere-discuss.net/tc-2019-14/' > The Cryosphere Discussion </a>."
+  #- date: February 7 2019
+  #headline: "Enze's manuscript on the use of deep learning to automatically delinate glacial calving fronts is posted as a discussion paper in <a href='https://www.the-cryosphere-discuss.net/tc-2019-14/' > The Cryosphere Discussion </a>."
 
 - date: January 31 2019
   headline: "Yan passed PhD qualifying exam. Congratulations!"
