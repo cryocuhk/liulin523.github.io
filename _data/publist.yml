@@ -1,3 +1,14 @@
+- title: "Global Positioning System interferometric reflectometry (GPS-IR) measurements of ground surface elevation changes in permafrost areas in northern Canada"
+  image: dummy.png 
+  description: ""
+  authors: Jiahua Zhang, Lin Liu, Yufeng Hu 
+  link:
+    url: https://www.the-cryosphere-discuss.net/tc-2019-173/
+    display: The Cryosphere (2020)
+  highlight: 0
+  incdata: 1
+  dataurl: https://doi.pangaea.de/10.1594/PANGAEA.904347
+
 - title: "Using deep learning to map retrogressive thaw slumps in the Beiluhe region (Tibetan Plateau) from CubeSat images"
   image: dummy.png
   description: ""
@@ -21,17 +32,6 @@
     display: Earth and Planetary Science Letters (2020)
   highlight: 0
   incdata: 0
-
-- title: "GPS Interferometric Reflectometry measurements of ground surface elevation changes in permafrost areas in northern Canada"
-  image: dummy.png 
-  description: ""
-  authors: Jiahua Zhang, Lin Liu, Yufeng Hu 
-  link:
-    url: https://www.the-cryosphere-discuss.net/tc-2019-173/
-    display: The Cryosphere Discussion (2019)
-  highlight: 0
-  incdata: 1
-  dataurl: https://doi.pangaea.de/10.1594/PANGAEA.904347
 
 - title: "Automatically delineating the calving front of Jakobshavn Isbræ from multitemporal TerraSAR-X images: a deep learning approach"
   image: dummy.png
@@ -66,7 +66,7 @@
 - title: "Synchrotron X-ray imaging in 4D: Multiscale failure and compaction localization in triaxially compressed porous limestone"
   image: dummy.png 
   description: ""
-  authors: Lingcao Huang, Patrick Baud, Benoit Cordonnier, François Renard, LinLiu, Teng-fong Wong
+  authors: Lingcao Huang, Patrick Baud, Benoit Cordonnier, François Renard, Lin Liu, Teng-fong Wong
   link:
     url: https://doi.org/10.1016/j.epsl.2019.115831
     display: Earth and Planetary Science Letters (2019)

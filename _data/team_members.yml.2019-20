@@ -62,6 +62,21 @@
   number_educ: 1
   education1: BSc and Master in Geodesy and Survey Engineering, Wuhan University
 
+- name: Jie Chen
+  photo: Jie.jpg
+  info: Research Assistant
+  email: jiechen@link.cuhk.edu.hk
+  addcv: 1
+  cv: Jie_CV.pdf
+  number_educ: 3
+  education1: PhD in Earth System and Geoinformation Science, The Chinese University of Hong Kong
+  education2: Master in Geology, Tongji University
+  education3: BSc in Geodesy, Shandong Jiaotong University
+  number_intr: 3
+  interest1: Permafrost and active layer dynamics
+  interest2: Radar remote sensing
+  interest3: Soil moisture
+
 - name: Billy Ho Ming Tsang
   photo: billyhmtsang.jpg
   info: Research Assistant

@@ -103,6 +103,7 @@ permalink: /team/
 ## Alumni
 **Graduate Students**<br />
 Lingcao Huang, PhD student 2016-19, now Postdoc at CUHK <br />
+Jie Chen, PhD student 2015-19, now Postdoc at Chinese Academy of Sciences <br />
 Joseph Ma Ho Yin, MPhil student 2014-16, now PhD student at National University of Singapore <br />
 
 **Postdocs**<br />
