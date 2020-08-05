@@ -17,9 +17,9 @@ permalink: /team/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-7 clearfix">
+<div class="col-sm-8 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/people/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h3>{{ member.name }}</h3>
+  <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i> 
   <br>
   <a href="http://www.cuhk.edu.hk/sci/essc/people/liu.html"> Department Webpage </a>
@@ -52,9 +52,9 @@ permalink: /team/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-7 clearfix">
+<div class="col-sm-8 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/people/{{ member.photo }}" class="img-responsive" width="24%" style="float: left" />
-  <h3>{{ member.name }}</h3>
+  <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i> {% if member.addcv == 1 %} <br><a href="{{ site.url }}{{ site.baseurl }}/assets/{{ member.cv }}"> CV </a> {% endif %}
   <p class="mb-0"> Research interests:</p>
   <ul style="overflow: hidden" padding-left="0em" margin-top="-10px">
