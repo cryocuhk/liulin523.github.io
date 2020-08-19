@@ -1,6 +1,12 @@
+- date: August 19 2020
+   headline: "Enze successfully defended his PhD thesis! Congratulations to Dr. Zhang!"
+
+- date: August 18 2020
+  headline: "New paper on improved estimate of Greenland ice mass trends and accelerations is published in <a href='https://authors.elsevier.com/sd/article/S0012821X20304623' >  Earth and Planetary Science Letters</a>."
+
 - date: August 11 2020
-  #headline: "Welcome to all EASC summer workshop attendees!" 
-  headline: "Welcome to all EASC summer workshop attendees! Here is <a href='https://cryocuhk.github.io/assets/CryosphereGeophysics_20200811.pdf' > Lin's presentation about cryosphere geophysics</a>."
+  headline: "Welcome to all EASC summer workshop attendees!" 
+  #  headline: "Welcome to all EASC summer workshop attendees! Here is <a href='https://cryocuhk.github.io/assets/CryosphereGeophysics_20200811.pdf' > Lin's presentation about cryosphere geophysics</a>."
 
 - date: August 3 2020
   headline: "New academic year begins! Warmest welcome to Zhuoxuan (Summer) and Billy!"
