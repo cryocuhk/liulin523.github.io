@@ -21,18 +21,6 @@
   interest2: Rock glacier dynamics
   interest3: Permafrost degradation and climate change
   
-- name: Lingcao Huang
-  photo: lingcao.jpg
-  info: Postdoc
-  email: huanglingcao@link.cuhk.edu.hk
-  number_educ: 2
-  education1: PhD in Earth and Atmospheric Sciences, The Chinese University of Hong Kong
-  education2: BSc and Master in Remote Sensing, Wuhan University
-  number_intr: 3
-  interest1: Thermokarst landforms on the Tibetan Plateau
-  interest2: Automatic mapping methods based on Deep Learning
-  interest3: Ice-rich permafrost responses to climate change
-
 - name: Billy Ho Ming Tsang
   photo: billyhmtsang.jpg
   info: MPhil student
@@ -52,12 +40,13 @@
 
 - name: Enze Zhang
   photo: enze.jpg
-  info: PhD student
+  info: Research Assistant
   email: zhangenze@link.cuhk.edu.hk
   addcv: 1
   cv: CV_Enze_Zhang.pdf
   number_educ: 1
   education1: BSc in Geophysics, University of Science and Technology of China
+  education2: PhD in Earth and Atmospheric Sciences, CUHK
   number_intr: 3
   interest1: Terminus variations of glaciers in Greenland 
   interest2: Automatic extracting calving front based on Deep Learning
