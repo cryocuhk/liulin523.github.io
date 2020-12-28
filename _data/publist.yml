@@ -1,3 +1,27 @@
+- title: "An automated, generalized, deep-learning-based method for delineating the calving fronts of Greenland glaciers from multi-sensor remote sensing imagery"
+  image: dummy.png 
+  description: ""
+  authors: Enze Zhang, Lin Liu, Lingcao Huang, Ka Shing Ng
+  link:
+    url: https://doi.org/10.1016/j.rse.2020.112265
+    display: Remote Sensing of Environment (2021)
+  highlight: 0
+  incdata: 1
+  dataurl: https://doi.pangaea.de/10.1594/PANGAEA.923272
+  inccode: 1
+  code:
+    url: https://github.com/enzezhang/Front_DL3
+    display: Code "Front_DL3" (Written and maintained by Enze Zhang)
+
+- title: "LaeNet: A Novel Lightweight Multitask CNN for Automatically Extracting Lake Area and Shoreline from Remote Sensing Images"
+  image: dummy.png 
+  description: ""
+  authors: Wei Liu, Xingyu Chen, Jiangjun Ran, Lin Liu, Qiang Wang, Linyang Xin, Gang Li
+  link:
+    url: https://doi.org/10.3390/rs13010056
+    display: Remote Sensing (2021)
+  highlight: 0
+
 - title: "Quantification of permafrost creep provides kinematic evidence for classifying a puzzling periglacial landform"
   image: dummy.png 
   description: ""
@@ -22,7 +46,7 @@
   authors: Jiahua Zhang, Lin Liu, Lei Su, Tao Che 
   link:
     url: https://tc.copernicus.org/preprints/tc-2020-236/
-    display: The Cryosphere Discussion (open review)
+    display: The Cryosphere Discussions (open review)
   highlight: 0
 
 - title: "Improving the estimate of the secular variation of Greenland ice mass in the recent decades by incorporating a stochastic process"
