@@ -22,6 +22,17 @@
     url: https://github.com/enzezhang/Front_DL3
     display: Code "Front_DL3" (Written and maintained by Enze Zhang)
 
+- title: "Mining noise data for monitoring Arctic permafrost by using GNSS interferometric reflectometry"
+  image: dummy.png 
+  description: ""
+  authors: Jiahua Zhang, Lin Liu
+  link:
+    url: https://doi.org/10.1016/j.polar.2021.100649
+    display: Polar Science (2021)
+  incdata: 1
+  dataurl: https://doi.org/10.5281/zenodo.4319372
+  highlight: 0
+
 - title: "LaeNet: A Novel Lightweight Multitask CNN for Automatically Extracting Lake Area and Shoreline from Remote Sensing Images"
   image: dummy.png 
   description: ""
@@ -37,7 +48,7 @@
   authors: Yan Hu, Lin Liu, Lin Zhao, Tonghua Wu, Jialun Cai, Xiaofan Zhu, Junming Hao
   link:
     url: https://onlinelibrary.wiley.com/doi/10.1002/esp.5039
-    display: Earth Surface Processes and Landforms (2020)
+    display: Earth Surface Processes and Landforms (2021)
   highlight: 0
 
 - title: "Centennial response of Greenland’s three largest outlet glaciers"
